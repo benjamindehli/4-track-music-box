@@ -2,7 +2,7 @@
 
 Date: 2023-08-09
 Name: Benjamin Dehli
-Profile: [pianobook.co.uk/profile/benjamindehli](https://www.pianobook.co.uk/profile/benjamindehli/)
+Profile: pianobook.co.uk/profile/benjamindehli
 
 ## Included formats
 
@@ -21,15 +21,7 @@ A music box recorded on to cassette tape and played back at half speed and norma
 
 ## User Interface
 
-|![Overview](/Screenshots/4-track-music-box.png)|
-|:--:|
-|Overview|
-
 ### Instrument
-
-|![Button controls for the instrument settings](/Screenshots/instrument.png)|
-|:--:|
-|Button controls for the instrument settings|
 
 #### Velocity and damping
 
@@ -40,10 +32,6 @@ A music box recorded on to cassette tape and played back at half speed and norma
   - When damping is on, the sample will fade out quickly after you release the key
 
 ### Mixer
-
-|![LFO controls](/Screenshots/mixer.png)|
-|:--:|
-|Mixer controls|
 
 #### Volume
 
@@ -64,10 +52,6 @@ These effects are achieved using carefully crafted impulse responses. The echo e
 
 #### Echo
 
-|![Controls for the tape echo impulse response](/Screenshots/echo.png)|
-|:--:|
-|Controls for the tape echo impulse response|
-
 Select from two distinctive echo options: the short echo, delivering a classic slapback effect, and the long echo, characterized by a slower decay and numerous repeats.
 
 - On
@@ -79,10 +63,6 @@ Select from two distinctive echo options: the short echo, delivering a classic s
 
 #### Reverb
 
-|![Controls for the room reverb impulse response](/Screenshots/reverb.png)|
-|:--:|
-|Controls for the room reverb impulse response|
-
 You'll also find two reverb effects: the short reverb, evoking the intimacy of a small room, and the long reverb, enveloping your sound in the vastness of a spacious environment.
 
 - On
@@ -93,10 +73,6 @@ You'll also find two reverb effects: the short reverb, evoking the intimacy of a
   - Mix between direct signal and reverb signal
 
 ### Fidelity
-
-|![Controls for the fidelity settings](/Screenshots/fidelity.png)|
-|:--:|
-|Controls for the fidelity settings|
 
 #### Hi-fi
 
