@@ -217,10 +217,10 @@
     <effect type="convolution" irFile="IR/reverb-short.wav" mix="0.0" enabled="false" />
   </effects>
   <modulators>
-    <lfo shape="sine" frequency="3.89" modAmount="1.0">
+    <lfo shape="sine" frequency="5.45" modAmount="1.0">
       <binding type="amp" level="group" position="0" parameter="AMP_VOLUME" modBehavior="set" translation="linear" translationOutputMin="0" translationOutputMax="1" />
     </lfo>
-    <lfo shape="sine" frequency="5.45" modAmount="1.0">
+    <lfo shape="sine" frequency="3.89" modAmount="1.0">
       <binding type="amp" level="group" position="1" parameter="AMP_VOLUME" modBehavior="set" translation="linear" translationOutputMin="0" translationOutputMax="1" />
     </lfo>
     <lfo shape="square" frequency=".32" modAmount="0.05">
