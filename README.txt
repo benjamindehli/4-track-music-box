@@ -1,12 +1,19 @@
-# 4-track Music Box - Version: [1.0]
+# 4-track Music Box - Version: [1.1]
 
-Date: 2023-08-09
+Date: 2023-08-29
 Name: Benjamin Dehli
 Profile: pianobook.co.uk/profile/benjamindehli
 
 ## Included formats
 
 - Decent Sampler
+
+## Release notes
+
+### Version 1.1
+
+- Fixed typo (wrong casing) in the directory name for some samples, which caused the samples not to load on some devices.
+- Added a "split" preset to play samples at normal speed and samples at half speed in different parts of the keyboard.
 
 ## Description
 
