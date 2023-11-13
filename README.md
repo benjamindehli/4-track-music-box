@@ -1,6 +1,6 @@
-# 4-track Music Box - Version: [1.1]
+# 4-track Music Box - Version: [1.2]
 
-Date: 2023-08-29
+Date: 2023-11-13
 
 Name: Benjamin Dehli
 
@@ -11,6 +11,10 @@ Profile: [pianobook.co.uk/profile/benjamindehli](https://www.pianobook.co.uk/pro
 - Decent Sampler
 
 ## Release notes
+
+### Version 1.2
+
+- Added a "Layered (Pitch Stretched)" preset.
 
 ### Version 1.1
 
