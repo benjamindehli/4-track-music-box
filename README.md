@@ -1,6 +1,6 @@
-# 4-track Music Box - Version: [1.2]
+# 4-track Music Box - Version: [1.3]
 
-Date: 2023-11-13
+Date: 2024-03-18
 
 Name: Benjamin Dehli
 
@@ -12,14 +12,23 @@ Profile: [pianobook.co.uk/profile/benjamindehli](https://www.pianobook.co.uk/pro
 
 ## Release notes
 
-### Version 1.2
+### Version 1.3 (2024-03-18)
+
+- Tremolo depth can now be controlled by the modulation wheel
+- Improved impulse responses for echo and reverb
+
+### Version 1.2 (2023-11-13)
 
 - Added a "Layered (Pitch Stretched)" preset.
 
-### Version 1.1
+### Version 1.1 (2023-08-29)
 
 - Fixed typo (wrong casing) in the directory name for some samples, which caused the samples not to load on some devices.
 - Added a "split" preset to play samples at normal speed and samples at half speed in different parts of the keyboard.
+
+### Version 1.0 (2023-08-09)
+
+- First version released
 
 ## Description
 
