@@ -423,6 +423,12 @@
     <effect type="convolution" irFile="IR/echo-short.wav" mix="0.0" enabled="false" />
     <effect type="convolution" irFile="IR/reverb-short.wav" mix="0.0" enabled="false" />
   </effects>
+  <midi>
+    <cc number="1">
+      <binding level="ui" type="control" position="3" parameter="VALUE" translation="linear" translationOutputMin="0" translationOutputMax="1"/>
+      <binding level="ui" type="control" position="6" parameter="VALUE" translation="linear" translationOutputMin="0" translationOutputMax="1"/>
+    </cc>
+  </midi>
   <modulators>
     <lfo shape="sine" frequency="5.45" modAmount="1.0">
       <binding type="amp" level="group" position="0" parameter="AMP_VOLUME" modBehavior="set" translation="linear" translationOutputMin="0" translationOutputMax="1" />
