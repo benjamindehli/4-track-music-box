@@ -152,7 +152,7 @@
   </ui>
   <groups release="0.4" ampVelTrack="0">
     <group tags="normal-speed,sustained" ampEnvEnabled="false">
-      <sample loNote="72" hiNote="72" rootNote="72" path="Samples/NormalSpeed/NormalSpeed_4D.wav"  sampleRate="48000.0" pitchKeyTrack="1" loopEnabled="0"/>
+      <sample loNote="72" hiNote="72" rootNote="72" path="Samples/NormalSpeed/NormalSpeed_4C.wav"  sampleRate="48000.0" pitchKeyTrack="1" loopEnabled="0"/>
       <sample loNote="73" hiNote="73" rootNote="73" path="Samples/NormalSpeed/NormalSpeed_4C#.wav" sampleRate="48000.0" pitchKeyTrack="1" loopEnabled="0"/>
       <sample loNote="74" hiNote="74" rootNote="74" path="Samples/NormalSpeed/NormalSpeed_4D.wav"  sampleRate="48000.0" pitchKeyTrack="1" loopEnabled="0"/>
       <sample loNote="75" hiNote="75" rootNote="75" path="Samples/NormalSpeed/NormalSpeed_4D#.wav" sampleRate="48000.0" pitchKeyTrack="1" loopEnabled="0"/>
