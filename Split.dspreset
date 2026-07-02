@@ -298,7 +298,7 @@
             <binding type="amp" level="instrument" parameter="GLOBAL_TUNING" />
         </lfo>
         <lfo shape="saw" frequency=".17" modAmount="0.05">
-            <binding type="amp" level="instrument" position="1" parameter="AMP_VOLUME" modBehavior="set" translation="linear" translationOutputMin="0" translationOutputMax="1" />
+            <binding type="amp" level="instrument" parameter="AMP_VOLUME" modBehavior="set" translation="linear" translationOutputMin="0" translationOutputMax="1" />
         </lfo>
     </modulators>
 </DecentSampler>
