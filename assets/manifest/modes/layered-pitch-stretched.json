@@ -1,0 +1,5612 @@
+{
+  "name": "Layered (Pitch Stretched)",
+  "amp": {
+    "attack": 0.0,
+    "decay": 0.0,
+    "sustain": 1.0,
+    "release": 0.4,
+    "volume": 1.0,
+    "velTrack": 0.0,
+    "enabled": true
+  },
+  "groups": [
+    {
+      "tags": [
+        "normal-speed",
+        "sustained"
+      ],
+      "ampEnvEnabled": false,
+      "samples": [
+        {
+          "source": "flac:NormalSpeed_4C",
+          "loNote": 0,
+          "hiNote": 0,
+          "rootNote": 72,
+          "lengthFrames": 154111,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4C#",
+          "loNote": 1,
+          "hiNote": 1,
+          "rootNote": 73,
+          "lengthFrames": 182517,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4D",
+          "loNote": 2,
+          "hiNote": 2,
+          "rootNote": 74,
+          "lengthFrames": 192509,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4D#",
+          "loNote": 3,
+          "hiNote": 3,
+          "rootNote": 75,
+          "lengthFrames": 163933,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4E",
+          "loNote": 4,
+          "hiNote": 4,
+          "rootNote": 76,
+          "lengthFrames": 213792,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4F",
+          "loNote": 5,
+          "hiNote": 5,
+          "rootNote": 77,
+          "lengthFrames": 221897,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4F#",
+          "loNote": 6,
+          "hiNote": 6,
+          "rootNote": 78,
+          "lengthFrames": 220369,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4G",
+          "loNote": 7,
+          "hiNote": 7,
+          "rootNote": 79,
+          "lengthFrames": 236226,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4G#",
+          "loNote": 8,
+          "hiNote": 8,
+          "rootNote": 80,
+          "lengthFrames": 204581,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4A",
+          "loNote": 9,
+          "hiNote": 9,
+          "rootNote": 81,
+          "lengthFrames": 174231,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4A#",
+          "loNote": 10,
+          "hiNote": 10,
+          "rootNote": 82,
+          "lengthFrames": 252893,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4B",
+          "loNote": 11,
+          "hiNote": 11,
+          "rootNote": 83,
+          "lengthFrames": 230074,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5C",
+          "loNote": 12,
+          "hiNote": 12,
+          "rootNote": 84,
+          "lengthFrames": 188780,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5C#",
+          "loNote": 13,
+          "hiNote": 13,
+          "rootNote": 85,
+          "lengthFrames": 156222,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5D",
+          "loNote": 14,
+          "hiNote": 14,
+          "rootNote": 86,
+          "lengthFrames": 168225,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5D#",
+          "loNote": 15,
+          "hiNote": 15,
+          "rootNote": 87,
+          "lengthFrames": 224346,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5E",
+          "loNote": 16,
+          "hiNote": 16,
+          "rootNote": 88,
+          "lengthFrames": 272686,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5F",
+          "loNote": 17,
+          "hiNote": 17,
+          "rootNote": 89,
+          "lengthFrames": 325895,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5F#",
+          "loNote": 18,
+          "hiNote": 18,
+          "rootNote": 90,
+          "lengthFrames": 232220,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5G",
+          "loNote": 19,
+          "hiNote": 19,
+          "rootNote": 91,
+          "lengthFrames": 216596,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4C",
+          "loNote": 20,
+          "hiNote": 20,
+          "rootNote": 72,
+          "lengthFrames": 154111,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4C#",
+          "loNote": 21,
+          "hiNote": 21,
+          "rootNote": 73,
+          "lengthFrames": 182517,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4D",
+          "loNote": 22,
+          "hiNote": 22,
+          "rootNote": 74,
+          "lengthFrames": 192509,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4D#",
+          "loNote": 23,
+          "hiNote": 23,
+          "rootNote": 75,
+          "lengthFrames": 163933,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4E",
+          "loNote": 24,
+          "hiNote": 24,
+          "rootNote": 76,
+          "lengthFrames": 213792,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4F",
+          "loNote": 25,
+          "hiNote": 25,
+          "rootNote": 77,
+          "lengthFrames": 221897,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4F#",
+          "loNote": 26,
+          "hiNote": 26,
+          "rootNote": 78,
+          "lengthFrames": 220369,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4G",
+          "loNote": 27,
+          "hiNote": 27,
+          "rootNote": 79,
+          "lengthFrames": 236226,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4G#",
+          "loNote": 28,
+          "hiNote": 28,
+          "rootNote": 80,
+          "lengthFrames": 204581,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4A",
+          "loNote": 29,
+          "hiNote": 29,
+          "rootNote": 81,
+          "lengthFrames": 174231,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4A#",
+          "loNote": 30,
+          "hiNote": 30,
+          "rootNote": 82,
+          "lengthFrames": 252893,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4B",
+          "loNote": 31,
+          "hiNote": 31,
+          "rootNote": 83,
+          "lengthFrames": 230074,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5C",
+          "loNote": 32,
+          "hiNote": 32,
+          "rootNote": 84,
+          "lengthFrames": 188780,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5C#",
+          "loNote": 33,
+          "hiNote": 33,
+          "rootNote": 85,
+          "lengthFrames": 156222,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5D",
+          "loNote": 34,
+          "hiNote": 34,
+          "rootNote": 86,
+          "lengthFrames": 168225,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5D#",
+          "loNote": 35,
+          "hiNote": 35,
+          "rootNote": 87,
+          "lengthFrames": 224346,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5E",
+          "loNote": 36,
+          "hiNote": 36,
+          "rootNote": 88,
+          "lengthFrames": 272686,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5F",
+          "loNote": 37,
+          "hiNote": 37,
+          "rootNote": 89,
+          "lengthFrames": 325895,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5F#",
+          "loNote": 38,
+          "hiNote": 38,
+          "rootNote": 90,
+          "lengthFrames": 232220,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5G",
+          "loNote": 39,
+          "hiNote": 39,
+          "rootNote": 91,
+          "lengthFrames": 216596,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5G#",
+          "loNote": 40,
+          "hiNote": 40,
+          "rootNote": 92,
+          "lengthFrames": 240252,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5A",
+          "loNote": 41,
+          "hiNote": 41,
+          "rootNote": 93,
+          "lengthFrames": 280378,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5A#",
+          "loNote": 42,
+          "hiNote": 42,
+          "rootNote": 94,
+          "lengthFrames": 225519,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5B",
+          "loNote": 43,
+          "hiNote": 43,
+          "rootNote": 95,
+          "lengthFrames": 214273,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_6C",
+          "loNote": 44,
+          "hiNote": 44,
+          "rootNote": 96,
+          "lengthFrames": 203525,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_6C#",
+          "loNote": 45,
+          "hiNote": 45,
+          "rootNote": 97,
+          "lengthFrames": 203963,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4C",
+          "loNote": 46,
+          "hiNote": 46,
+          "rootNote": 72,
+          "lengthFrames": 154111,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4C#",
+          "loNote": 47,
+          "hiNote": 47,
+          "rootNote": 73,
+          "lengthFrames": 182517,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4D",
+          "loNote": 48,
+          "hiNote": 48,
+          "rootNote": 74,
+          "lengthFrames": 192509,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4D#",
+          "loNote": 49,
+          "hiNote": 49,
+          "rootNote": 75,
+          "lengthFrames": 163933,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4E",
+          "loNote": 50,
+          "hiNote": 50,
+          "rootNote": 76,
+          "lengthFrames": 213792,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4F",
+          "loNote": 51,
+          "hiNote": 51,
+          "rootNote": 77,
+          "lengthFrames": 221897,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4F#",
+          "loNote": 52,
+          "hiNote": 52,
+          "rootNote": 78,
+          "lengthFrames": 220369,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4G",
+          "loNote": 53,
+          "hiNote": 53,
+          "rootNote": 79,
+          "lengthFrames": 236226,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4G#",
+          "loNote": 54,
+          "hiNote": 54,
+          "rootNote": 80,
+          "lengthFrames": 204581,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4A",
+          "loNote": 55,
+          "hiNote": 55,
+          "rootNote": 81,
+          "lengthFrames": 174231,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4A#",
+          "loNote": 56,
+          "hiNote": 56,
+          "rootNote": 82,
+          "lengthFrames": 252893,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4B",
+          "loNote": 57,
+          "hiNote": 57,
+          "rootNote": 83,
+          "lengthFrames": 230074,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5C",
+          "loNote": 58,
+          "hiNote": 58,
+          "rootNote": 84,
+          "lengthFrames": 188780,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5C#",
+          "loNote": 59,
+          "hiNote": 59,
+          "rootNote": 85,
+          "lengthFrames": 156222,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5D",
+          "loNote": 60,
+          "hiNote": 60,
+          "rootNote": 86,
+          "lengthFrames": 168225,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5D#",
+          "loNote": 61,
+          "hiNote": 61,
+          "rootNote": 87,
+          "lengthFrames": 224346,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5E",
+          "loNote": 62,
+          "hiNote": 62,
+          "rootNote": 88,
+          "lengthFrames": 272686,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5F",
+          "loNote": 63,
+          "hiNote": 63,
+          "rootNote": 89,
+          "lengthFrames": 325895,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5F#",
+          "loNote": 64,
+          "hiNote": 64,
+          "rootNote": 90,
+          "lengthFrames": 232220,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5G",
+          "loNote": 65,
+          "hiNote": 65,
+          "rootNote": 91,
+          "lengthFrames": 216596,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5G#",
+          "loNote": 66,
+          "hiNote": 66,
+          "rootNote": 92,
+          "lengthFrames": 240252,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5A",
+          "loNote": 67,
+          "hiNote": 67,
+          "rootNote": 93,
+          "lengthFrames": 280378,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5A#",
+          "loNote": 68,
+          "hiNote": 68,
+          "rootNote": 94,
+          "lengthFrames": 225519,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5B",
+          "loNote": 69,
+          "hiNote": 69,
+          "rootNote": 95,
+          "lengthFrames": 214273,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_6C",
+          "loNote": 70,
+          "hiNote": 70,
+          "rootNote": 96,
+          "lengthFrames": 203525,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_6C#",
+          "loNote": 71,
+          "hiNote": 71,
+          "rootNote": 97,
+          "lengthFrames": 203963,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4C",
+          "loNote": 72,
+          "hiNote": 72,
+          "rootNote": 72,
+          "lengthFrames": 154111,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4C#",
+          "loNote": 73,
+          "hiNote": 73,
+          "rootNote": 73,
+          "lengthFrames": 182517,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4D",
+          "loNote": 74,
+          "hiNote": 74,
+          "rootNote": 74,
+          "lengthFrames": 192509,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4D#",
+          "loNote": 75,
+          "hiNote": 75,
+          "rootNote": 75,
+          "lengthFrames": 163933,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4E",
+          "loNote": 76,
+          "hiNote": 76,
+          "rootNote": 76,
+          "lengthFrames": 213792,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4F",
+          "loNote": 77,
+          "hiNote": 77,
+          "rootNote": 77,
+          "lengthFrames": 221897,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4F#",
+          "loNote": 78,
+          "hiNote": 78,
+          "rootNote": 78,
+          "lengthFrames": 220369,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4G",
+          "loNote": 79,
+          "hiNote": 79,
+          "rootNote": 79,
+          "lengthFrames": 236226,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4G#",
+          "loNote": 80,
+          "hiNote": 80,
+          "rootNote": 80,
+          "lengthFrames": 204581,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4A",
+          "loNote": 81,
+          "hiNote": 81,
+          "rootNote": 81,
+          "lengthFrames": 174231,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4A#",
+          "loNote": 82,
+          "hiNote": 82,
+          "rootNote": 82,
+          "lengthFrames": 252893,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4B",
+          "loNote": 83,
+          "hiNote": 83,
+          "rootNote": 83,
+          "lengthFrames": 230074,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5C",
+          "loNote": 84,
+          "hiNote": 84,
+          "rootNote": 84,
+          "lengthFrames": 188780,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5C#",
+          "loNote": 85,
+          "hiNote": 85,
+          "rootNote": 85,
+          "lengthFrames": 156222,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5D",
+          "loNote": 86,
+          "hiNote": 86,
+          "rootNote": 86,
+          "lengthFrames": 168225,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5D#",
+          "loNote": 87,
+          "hiNote": 87,
+          "rootNote": 87,
+          "lengthFrames": 224346,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5E",
+          "loNote": 88,
+          "hiNote": 88,
+          "rootNote": 88,
+          "lengthFrames": 272686,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5F",
+          "loNote": 89,
+          "hiNote": 89,
+          "rootNote": 89,
+          "lengthFrames": 325895,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5F#",
+          "loNote": 90,
+          "hiNote": 90,
+          "rootNote": 90,
+          "lengthFrames": 232220,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5G",
+          "loNote": 91,
+          "hiNote": 91,
+          "rootNote": 91,
+          "lengthFrames": 216596,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5G#",
+          "loNote": 92,
+          "hiNote": 92,
+          "rootNote": 92,
+          "lengthFrames": 240252,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5A",
+          "loNote": 93,
+          "hiNote": 93,
+          "rootNote": 93,
+          "lengthFrames": 280378,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5A#",
+          "loNote": 94,
+          "hiNote": 94,
+          "rootNote": 94,
+          "lengthFrames": 225519,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5B",
+          "loNote": 95,
+          "hiNote": 95,
+          "rootNote": 95,
+          "lengthFrames": 214273,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_6C",
+          "loNote": 96,
+          "hiNote": 96,
+          "rootNote": 96,
+          "lengthFrames": 203525,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_6C#",
+          "loNote": 97,
+          "hiNote": 97,
+          "rootNote": 97,
+          "lengthFrames": 203963,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4C",
+          "loNote": 98,
+          "hiNote": 98,
+          "rootNote": 72,
+          "lengthFrames": 154111,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4C#",
+          "loNote": 99,
+          "hiNote": 99,
+          "rootNote": 73,
+          "lengthFrames": 182517,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4D",
+          "loNote": 100,
+          "hiNote": 100,
+          "rootNote": 74,
+          "lengthFrames": 192509,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4D#",
+          "loNote": 101,
+          "hiNote": 101,
+          "rootNote": 75,
+          "lengthFrames": 163933,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4E",
+          "loNote": 102,
+          "hiNote": 102,
+          "rootNote": 76,
+          "lengthFrames": 213792,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4F",
+          "loNote": 103,
+          "hiNote": 103,
+          "rootNote": 77,
+          "lengthFrames": 221897,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4F#",
+          "loNote": 104,
+          "hiNote": 104,
+          "rootNote": 78,
+          "lengthFrames": 220369,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4G",
+          "loNote": 105,
+          "hiNote": 105,
+          "rootNote": 79,
+          "lengthFrames": 236226,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4G#",
+          "loNote": 106,
+          "hiNote": 106,
+          "rootNote": 80,
+          "lengthFrames": 204581,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4A",
+          "loNote": 107,
+          "hiNote": 107,
+          "rootNote": 81,
+          "lengthFrames": 174231,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4A#",
+          "loNote": 108,
+          "hiNote": 108,
+          "rootNote": 82,
+          "lengthFrames": 252893,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4B",
+          "loNote": 109,
+          "hiNote": 109,
+          "rootNote": 83,
+          "lengthFrames": 230074,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5C",
+          "loNote": 110,
+          "hiNote": 110,
+          "rootNote": 84,
+          "lengthFrames": 188780,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5C#",
+          "loNote": 111,
+          "hiNote": 111,
+          "rootNote": 85,
+          "lengthFrames": 156222,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5D",
+          "loNote": 112,
+          "hiNote": 112,
+          "rootNote": 86,
+          "lengthFrames": 168225,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5D#",
+          "loNote": 113,
+          "hiNote": 113,
+          "rootNote": 87,
+          "lengthFrames": 224346,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5E",
+          "loNote": 114,
+          "hiNote": 114,
+          "rootNote": 88,
+          "lengthFrames": 272686,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5F",
+          "loNote": 115,
+          "hiNote": 115,
+          "rootNote": 89,
+          "lengthFrames": 325895,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5F#",
+          "loNote": 116,
+          "hiNote": 116,
+          "rootNote": 90,
+          "lengthFrames": 232220,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5G",
+          "loNote": 117,
+          "hiNote": 117,
+          "rootNote": 91,
+          "lengthFrames": 216596,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5G#",
+          "loNote": 118,
+          "hiNote": 118,
+          "rootNote": 92,
+          "lengthFrames": 240252,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5A",
+          "loNote": 119,
+          "hiNote": 119,
+          "rootNote": 93,
+          "lengthFrames": 280378,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5A#",
+          "loNote": 120,
+          "hiNote": 120,
+          "rootNote": 94,
+          "lengthFrames": 225519,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5B",
+          "loNote": 121,
+          "hiNote": 121,
+          "rootNote": 95,
+          "lengthFrames": 214273,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_6C",
+          "loNote": 122,
+          "hiNote": 122,
+          "rootNote": 96,
+          "lengthFrames": 203525,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_6C#",
+          "loNote": 123,
+          "hiNote": 123,
+          "rootNote": 97,
+          "lengthFrames": 203963,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5A#",
+          "loNote": 124,
+          "hiNote": 124,
+          "rootNote": 94,
+          "lengthFrames": 225519,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5B",
+          "loNote": 125,
+          "hiNote": 125,
+          "rootNote": 95,
+          "lengthFrames": 214273,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_6C",
+          "loNote": 126,
+          "hiNote": 126,
+          "rootNote": 96,
+          "lengthFrames": 203525,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_6C#",
+          "loNote": 127,
+          "hiNote": 127,
+          "rootNote": 97,
+          "lengthFrames": 203963,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        }
+      ]
+    },
+    {
+      "tags": [
+        "half-speed",
+        "sustained"
+      ],
+      "ampEnvEnabled": false,
+      "samples": [
+        {
+          "source": "flac:HalfSpeed_3C",
+          "loNote": 0,
+          "hiNote": 0,
+          "rootNote": 72,
+          "lengthFrames": 432315,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3C#",
+          "loNote": 1,
+          "hiNote": 1,
+          "rootNote": 73,
+          "lengthFrames": 427550,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3D",
+          "loNote": 2,
+          "hiNote": 2,
+          "rootNote": 74,
+          "lengthFrames": 427116,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3D#",
+          "loNote": 3,
+          "hiNote": 3,
+          "rootNote": 75,
+          "lengthFrames": 426921,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3E",
+          "loNote": 4,
+          "hiNote": 4,
+          "rootNote": 76,
+          "lengthFrames": 426423,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3F",
+          "loNote": 5,
+          "hiNote": 5,
+          "rootNote": 77,
+          "lengthFrames": 425916,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3F#",
+          "loNote": 6,
+          "hiNote": 6,
+          "rootNote": 78,
+          "lengthFrames": 425442,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3G",
+          "loNote": 7,
+          "hiNote": 7,
+          "rootNote": 79,
+          "lengthFrames": 424920,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3G#",
+          "loNote": 8,
+          "hiNote": 8,
+          "rootNote": 80,
+          "lengthFrames": 424408,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3A",
+          "loNote": 9,
+          "hiNote": 9,
+          "rootNote": 81,
+          "lengthFrames": 423953,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3A#",
+          "loNote": 10,
+          "hiNote": 10,
+          "rootNote": 82,
+          "lengthFrames": 423453,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3B",
+          "loNote": 11,
+          "hiNote": 11,
+          "rootNote": 83,
+          "lengthFrames": 423228,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4C",
+          "loNote": 12,
+          "hiNote": 12,
+          "rootNote": 84,
+          "lengthFrames": 422998,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4C#",
+          "loNote": 13,
+          "hiNote": 13,
+          "rootNote": 85,
+          "lengthFrames": 422931,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4D",
+          "loNote": 14,
+          "hiNote": 14,
+          "rootNote": 86,
+          "lengthFrames": 423035,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4D#",
+          "loNote": 15,
+          "hiNote": 15,
+          "rootNote": 87,
+          "lengthFrames": 429696,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4E",
+          "loNote": 16,
+          "hiNote": 16,
+          "rootNote": 88,
+          "lengthFrames": 429721,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4F",
+          "loNote": 17,
+          "hiNote": 17,
+          "rootNote": 89,
+          "lengthFrames": 501783,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4F#",
+          "loNote": 18,
+          "hiNote": 18,
+          "rootNote": 90,
+          "lengthFrames": 429832,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4G",
+          "loNote": 19,
+          "hiNote": 19,
+          "rootNote": 91,
+          "lengthFrames": 429927,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3C",
+          "loNote": 20,
+          "hiNote": 20,
+          "rootNote": 72,
+          "lengthFrames": 432315,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3C#",
+          "loNote": 21,
+          "hiNote": 21,
+          "rootNote": 73,
+          "lengthFrames": 427550,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3D",
+          "loNote": 22,
+          "hiNote": 22,
+          "rootNote": 74,
+          "lengthFrames": 427116,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3D#",
+          "loNote": 23,
+          "hiNote": 23,
+          "rootNote": 75,
+          "lengthFrames": 426921,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3E",
+          "loNote": 24,
+          "hiNote": 24,
+          "rootNote": 76,
+          "lengthFrames": 426423,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3F",
+          "loNote": 25,
+          "hiNote": 25,
+          "rootNote": 77,
+          "lengthFrames": 425916,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3F#",
+          "loNote": 26,
+          "hiNote": 26,
+          "rootNote": 78,
+          "lengthFrames": 425442,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3G",
+          "loNote": 27,
+          "hiNote": 27,
+          "rootNote": 79,
+          "lengthFrames": 424920,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3G#",
+          "loNote": 28,
+          "hiNote": 28,
+          "rootNote": 80,
+          "lengthFrames": 424408,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3A",
+          "loNote": 29,
+          "hiNote": 29,
+          "rootNote": 81,
+          "lengthFrames": 423953,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3A#",
+          "loNote": 30,
+          "hiNote": 30,
+          "rootNote": 82,
+          "lengthFrames": 423453,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3B",
+          "loNote": 31,
+          "hiNote": 31,
+          "rootNote": 83,
+          "lengthFrames": 423228,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4C",
+          "loNote": 32,
+          "hiNote": 32,
+          "rootNote": 84,
+          "lengthFrames": 422998,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4C#",
+          "loNote": 33,
+          "hiNote": 33,
+          "rootNote": 85,
+          "lengthFrames": 422931,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4D",
+          "loNote": 34,
+          "hiNote": 34,
+          "rootNote": 86,
+          "lengthFrames": 423035,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4D#",
+          "loNote": 35,
+          "hiNote": 35,
+          "rootNote": 87,
+          "lengthFrames": 429696,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4E",
+          "loNote": 36,
+          "hiNote": 36,
+          "rootNote": 88,
+          "lengthFrames": 429721,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4F",
+          "loNote": 37,
+          "hiNote": 37,
+          "rootNote": 89,
+          "lengthFrames": 501783,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4F#",
+          "loNote": 38,
+          "hiNote": 38,
+          "rootNote": 90,
+          "lengthFrames": 429832,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4G",
+          "loNote": 39,
+          "hiNote": 39,
+          "rootNote": 91,
+          "lengthFrames": 429927,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4G#",
+          "loNote": 40,
+          "hiNote": 40,
+          "rootNote": 92,
+          "lengthFrames": 430023,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4A",
+          "loNote": 41,
+          "hiNote": 41,
+          "rootNote": 93,
+          "lengthFrames": 484048,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4A#",
+          "loNote": 42,
+          "hiNote": 42,
+          "rootNote": 94,
+          "lengthFrames": 430170,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4B",
+          "loNote": 43,
+          "hiNote": 43,
+          "rootNote": 95,
+          "lengthFrames": 430329,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_5C",
+          "loNote": 44,
+          "hiNote": 44,
+          "rootNote": 96,
+          "lengthFrames": 412522,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_5C#",
+          "loNote": 45,
+          "hiNote": 45,
+          "rootNote": 97,
+          "lengthFrames": 358771,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3C",
+          "loNote": 46,
+          "hiNote": 46,
+          "rootNote": 72,
+          "lengthFrames": 432315,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3C#",
+          "loNote": 47,
+          "hiNote": 47,
+          "rootNote": 73,
+          "lengthFrames": 427550,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3D",
+          "loNote": 48,
+          "hiNote": 48,
+          "rootNote": 74,
+          "lengthFrames": 427116,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3D#",
+          "loNote": 49,
+          "hiNote": 49,
+          "rootNote": 75,
+          "lengthFrames": 426921,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3E",
+          "loNote": 50,
+          "hiNote": 50,
+          "rootNote": 76,
+          "lengthFrames": 426423,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3F",
+          "loNote": 51,
+          "hiNote": 51,
+          "rootNote": 77,
+          "lengthFrames": 425916,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3F#",
+          "loNote": 52,
+          "hiNote": 52,
+          "rootNote": 78,
+          "lengthFrames": 425442,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3G",
+          "loNote": 53,
+          "hiNote": 53,
+          "rootNote": 79,
+          "lengthFrames": 424920,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3G#",
+          "loNote": 54,
+          "hiNote": 54,
+          "rootNote": 80,
+          "lengthFrames": 424408,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3A",
+          "loNote": 55,
+          "hiNote": 55,
+          "rootNote": 81,
+          "lengthFrames": 423953,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3A#",
+          "loNote": 56,
+          "hiNote": 56,
+          "rootNote": 82,
+          "lengthFrames": 423453,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3B",
+          "loNote": 57,
+          "hiNote": 57,
+          "rootNote": 83,
+          "lengthFrames": 423228,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4C",
+          "loNote": 58,
+          "hiNote": 58,
+          "rootNote": 84,
+          "lengthFrames": 422998,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4C#",
+          "loNote": 59,
+          "hiNote": 59,
+          "rootNote": 85,
+          "lengthFrames": 422931,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4D",
+          "loNote": 60,
+          "hiNote": 60,
+          "rootNote": 86,
+          "lengthFrames": 423035,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4D#",
+          "loNote": 61,
+          "hiNote": 61,
+          "rootNote": 87,
+          "lengthFrames": 429696,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4E",
+          "loNote": 62,
+          "hiNote": 62,
+          "rootNote": 88,
+          "lengthFrames": 429721,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4F",
+          "loNote": 63,
+          "hiNote": 63,
+          "rootNote": 89,
+          "lengthFrames": 501783,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4F#",
+          "loNote": 64,
+          "hiNote": 64,
+          "rootNote": 90,
+          "lengthFrames": 429832,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4G",
+          "loNote": 65,
+          "hiNote": 65,
+          "rootNote": 91,
+          "lengthFrames": 429927,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4G#",
+          "loNote": 66,
+          "hiNote": 66,
+          "rootNote": 92,
+          "lengthFrames": 430023,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4A",
+          "loNote": 67,
+          "hiNote": 67,
+          "rootNote": 93,
+          "lengthFrames": 484048,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4A#",
+          "loNote": 68,
+          "hiNote": 68,
+          "rootNote": 94,
+          "lengthFrames": 430170,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4B",
+          "loNote": 69,
+          "hiNote": 69,
+          "rootNote": 95,
+          "lengthFrames": 430329,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_5C",
+          "loNote": 70,
+          "hiNote": 70,
+          "rootNote": 96,
+          "lengthFrames": 412522,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_5C#",
+          "loNote": 71,
+          "hiNote": 71,
+          "rootNote": 97,
+          "lengthFrames": 358771,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3C",
+          "loNote": 72,
+          "hiNote": 72,
+          "rootNote": 72,
+          "lengthFrames": 432315,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3C#",
+          "loNote": 73,
+          "hiNote": 73,
+          "rootNote": 73,
+          "lengthFrames": 427550,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3D",
+          "loNote": 74,
+          "hiNote": 74,
+          "rootNote": 74,
+          "lengthFrames": 427116,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3D#",
+          "loNote": 75,
+          "hiNote": 75,
+          "rootNote": 75,
+          "lengthFrames": 426921,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3E",
+          "loNote": 76,
+          "hiNote": 76,
+          "rootNote": 76,
+          "lengthFrames": 426423,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3F",
+          "loNote": 77,
+          "hiNote": 77,
+          "rootNote": 77,
+          "lengthFrames": 425916,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3F#",
+          "loNote": 78,
+          "hiNote": 78,
+          "rootNote": 78,
+          "lengthFrames": 425442,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3G",
+          "loNote": 79,
+          "hiNote": 79,
+          "rootNote": 79,
+          "lengthFrames": 424920,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3G#",
+          "loNote": 80,
+          "hiNote": 80,
+          "rootNote": 80,
+          "lengthFrames": 424408,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3A",
+          "loNote": 81,
+          "hiNote": 81,
+          "rootNote": 81,
+          "lengthFrames": 423953,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3A#",
+          "loNote": 82,
+          "hiNote": 82,
+          "rootNote": 82,
+          "lengthFrames": 423453,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3B",
+          "loNote": 83,
+          "hiNote": 83,
+          "rootNote": 83,
+          "lengthFrames": 423228,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4C",
+          "loNote": 84,
+          "hiNote": 84,
+          "rootNote": 84,
+          "lengthFrames": 422998,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4C#",
+          "loNote": 85,
+          "hiNote": 85,
+          "rootNote": 85,
+          "lengthFrames": 422931,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4D",
+          "loNote": 86,
+          "hiNote": 86,
+          "rootNote": 86,
+          "lengthFrames": 423035,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4D#",
+          "loNote": 87,
+          "hiNote": 87,
+          "rootNote": 87,
+          "lengthFrames": 429696,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4E",
+          "loNote": 88,
+          "hiNote": 88,
+          "rootNote": 88,
+          "lengthFrames": 429721,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4F",
+          "loNote": 89,
+          "hiNote": 89,
+          "rootNote": 89,
+          "lengthFrames": 501783,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4F#",
+          "loNote": 90,
+          "hiNote": 90,
+          "rootNote": 90,
+          "lengthFrames": 429832,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4G",
+          "loNote": 91,
+          "hiNote": 91,
+          "rootNote": 91,
+          "lengthFrames": 429927,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4G#",
+          "loNote": 92,
+          "hiNote": 92,
+          "rootNote": 92,
+          "lengthFrames": 430023,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4A",
+          "loNote": 93,
+          "hiNote": 93,
+          "rootNote": 93,
+          "lengthFrames": 484048,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4A#",
+          "loNote": 94,
+          "hiNote": 94,
+          "rootNote": 94,
+          "lengthFrames": 430170,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4B",
+          "loNote": 95,
+          "hiNote": 95,
+          "rootNote": 95,
+          "lengthFrames": 430329,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_5C",
+          "loNote": 96,
+          "hiNote": 96,
+          "rootNote": 96,
+          "lengthFrames": 412522,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_5C#",
+          "loNote": 97,
+          "hiNote": 97,
+          "rootNote": 97,
+          "lengthFrames": 358771,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3C",
+          "loNote": 98,
+          "hiNote": 98,
+          "rootNote": 72,
+          "lengthFrames": 432315,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3C#",
+          "loNote": 99,
+          "hiNote": 99,
+          "rootNote": 73,
+          "lengthFrames": 427550,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3D",
+          "loNote": 100,
+          "hiNote": 100,
+          "rootNote": 74,
+          "lengthFrames": 427116,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3D#",
+          "loNote": 101,
+          "hiNote": 101,
+          "rootNote": 75,
+          "lengthFrames": 426921,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3E",
+          "loNote": 102,
+          "hiNote": 102,
+          "rootNote": 76,
+          "lengthFrames": 426423,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3F",
+          "loNote": 103,
+          "hiNote": 103,
+          "rootNote": 77,
+          "lengthFrames": 425916,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3F#",
+          "loNote": 104,
+          "hiNote": 104,
+          "rootNote": 78,
+          "lengthFrames": 425442,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3G",
+          "loNote": 105,
+          "hiNote": 105,
+          "rootNote": 79,
+          "lengthFrames": 424920,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3G#",
+          "loNote": 106,
+          "hiNote": 106,
+          "rootNote": 80,
+          "lengthFrames": 424408,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3A",
+          "loNote": 107,
+          "hiNote": 107,
+          "rootNote": 81,
+          "lengthFrames": 423953,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3A#",
+          "loNote": 108,
+          "hiNote": 108,
+          "rootNote": 82,
+          "lengthFrames": 423453,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3B",
+          "loNote": 109,
+          "hiNote": 109,
+          "rootNote": 83,
+          "lengthFrames": 423228,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4C",
+          "loNote": 110,
+          "hiNote": 110,
+          "rootNote": 84,
+          "lengthFrames": 422998,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4C#",
+          "loNote": 111,
+          "hiNote": 111,
+          "rootNote": 85,
+          "lengthFrames": 422931,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4D",
+          "loNote": 112,
+          "hiNote": 112,
+          "rootNote": 86,
+          "lengthFrames": 423035,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4D#",
+          "loNote": 113,
+          "hiNote": 113,
+          "rootNote": 87,
+          "lengthFrames": 429696,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4E",
+          "loNote": 114,
+          "hiNote": 114,
+          "rootNote": 88,
+          "lengthFrames": 429721,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4F",
+          "loNote": 115,
+          "hiNote": 115,
+          "rootNote": 89,
+          "lengthFrames": 501783,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4F#",
+          "loNote": 116,
+          "hiNote": 116,
+          "rootNote": 90,
+          "lengthFrames": 429832,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4G",
+          "loNote": 117,
+          "hiNote": 117,
+          "rootNote": 91,
+          "lengthFrames": 429927,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4G#",
+          "loNote": 118,
+          "hiNote": 118,
+          "rootNote": 92,
+          "lengthFrames": 430023,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4A",
+          "loNote": 119,
+          "hiNote": 119,
+          "rootNote": 93,
+          "lengthFrames": 484048,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4A#",
+          "loNote": 120,
+          "hiNote": 120,
+          "rootNote": 94,
+          "lengthFrames": 430170,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4B",
+          "loNote": 121,
+          "hiNote": 121,
+          "rootNote": 95,
+          "lengthFrames": 430329,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_5C",
+          "loNote": 122,
+          "hiNote": 122,
+          "rootNote": 96,
+          "lengthFrames": 412522,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_5C#",
+          "loNote": 123,
+          "hiNote": 123,
+          "rootNote": 97,
+          "lengthFrames": 358771,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4A#",
+          "loNote": 124,
+          "hiNote": 124,
+          "rootNote": 94,
+          "lengthFrames": 430170,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4B",
+          "loNote": 125,
+          "hiNote": 125,
+          "rootNote": 95,
+          "lengthFrames": 430329,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_5C",
+          "loNote": 126,
+          "hiNote": 126,
+          "rootNote": 96,
+          "lengthFrames": 412522,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_5C#",
+          "loNote": 127,
+          "hiNote": 127,
+          "rootNote": 97,
+          "lengthFrames": 358771,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        }
+      ]
+    },
+    {
+      "tags": [
+        "normal-speed",
+        "damped"
+      ],
+      "samples": [
+        {
+          "source": "flac:NormalSpeed_4C",
+          "loNote": 0,
+          "hiNote": 0,
+          "rootNote": 72,
+          "lengthFrames": 154111,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4C#",
+          "loNote": 1,
+          "hiNote": 1,
+          "rootNote": 73,
+          "lengthFrames": 182517,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4D",
+          "loNote": 2,
+          "hiNote": 2,
+          "rootNote": 74,
+          "lengthFrames": 192509,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4D#",
+          "loNote": 3,
+          "hiNote": 3,
+          "rootNote": 75,
+          "lengthFrames": 163933,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4E",
+          "loNote": 4,
+          "hiNote": 4,
+          "rootNote": 76,
+          "lengthFrames": 213792,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4F",
+          "loNote": 5,
+          "hiNote": 5,
+          "rootNote": 77,
+          "lengthFrames": 221897,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4F#",
+          "loNote": 6,
+          "hiNote": 6,
+          "rootNote": 78,
+          "lengthFrames": 220369,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4G",
+          "loNote": 7,
+          "hiNote": 7,
+          "rootNote": 79,
+          "lengthFrames": 236226,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4G#",
+          "loNote": 8,
+          "hiNote": 8,
+          "rootNote": 80,
+          "lengthFrames": 204581,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4A",
+          "loNote": 9,
+          "hiNote": 9,
+          "rootNote": 81,
+          "lengthFrames": 174231,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4A#",
+          "loNote": 10,
+          "hiNote": 10,
+          "rootNote": 82,
+          "lengthFrames": 252893,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4B",
+          "loNote": 11,
+          "hiNote": 11,
+          "rootNote": 83,
+          "lengthFrames": 230074,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5C",
+          "loNote": 12,
+          "hiNote": 12,
+          "rootNote": 84,
+          "lengthFrames": 188780,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5C#",
+          "loNote": 13,
+          "hiNote": 13,
+          "rootNote": 85,
+          "lengthFrames": 156222,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5D",
+          "loNote": 14,
+          "hiNote": 14,
+          "rootNote": 86,
+          "lengthFrames": 168225,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5D#",
+          "loNote": 15,
+          "hiNote": 15,
+          "rootNote": 87,
+          "lengthFrames": 224346,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5E",
+          "loNote": 16,
+          "hiNote": 16,
+          "rootNote": 88,
+          "lengthFrames": 272686,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5F",
+          "loNote": 17,
+          "hiNote": 17,
+          "rootNote": 89,
+          "lengthFrames": 325895,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5F#",
+          "loNote": 18,
+          "hiNote": 18,
+          "rootNote": 90,
+          "lengthFrames": 232220,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5G",
+          "loNote": 19,
+          "hiNote": 19,
+          "rootNote": 91,
+          "lengthFrames": 216596,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4C",
+          "loNote": 20,
+          "hiNote": 20,
+          "rootNote": 72,
+          "lengthFrames": 154111,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4C#",
+          "loNote": 21,
+          "hiNote": 21,
+          "rootNote": 73,
+          "lengthFrames": 182517,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4D",
+          "loNote": 22,
+          "hiNote": 22,
+          "rootNote": 74,
+          "lengthFrames": 192509,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4D#",
+          "loNote": 23,
+          "hiNote": 23,
+          "rootNote": 75,
+          "lengthFrames": 163933,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4E",
+          "loNote": 24,
+          "hiNote": 24,
+          "rootNote": 76,
+          "lengthFrames": 213792,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4F",
+          "loNote": 25,
+          "hiNote": 25,
+          "rootNote": 77,
+          "lengthFrames": 221897,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4F#",
+          "loNote": 26,
+          "hiNote": 26,
+          "rootNote": 78,
+          "lengthFrames": 220369,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4G",
+          "loNote": 27,
+          "hiNote": 27,
+          "rootNote": 79,
+          "lengthFrames": 236226,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4G#",
+          "loNote": 28,
+          "hiNote": 28,
+          "rootNote": 80,
+          "lengthFrames": 204581,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4A",
+          "loNote": 29,
+          "hiNote": 29,
+          "rootNote": 81,
+          "lengthFrames": 174231,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4A#",
+          "loNote": 30,
+          "hiNote": 30,
+          "rootNote": 82,
+          "lengthFrames": 252893,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4B",
+          "loNote": 31,
+          "hiNote": 31,
+          "rootNote": 83,
+          "lengthFrames": 230074,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5C",
+          "loNote": 32,
+          "hiNote": 32,
+          "rootNote": 84,
+          "lengthFrames": 188780,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5C#",
+          "loNote": 33,
+          "hiNote": 33,
+          "rootNote": 85,
+          "lengthFrames": 156222,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5D",
+          "loNote": 34,
+          "hiNote": 34,
+          "rootNote": 86,
+          "lengthFrames": 168225,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5D#",
+          "loNote": 35,
+          "hiNote": 35,
+          "rootNote": 87,
+          "lengthFrames": 224346,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5E",
+          "loNote": 36,
+          "hiNote": 36,
+          "rootNote": 88,
+          "lengthFrames": 272686,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5F",
+          "loNote": 37,
+          "hiNote": 37,
+          "rootNote": 89,
+          "lengthFrames": 325895,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5F#",
+          "loNote": 38,
+          "hiNote": 38,
+          "rootNote": 90,
+          "lengthFrames": 232220,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5G",
+          "loNote": 39,
+          "hiNote": 39,
+          "rootNote": 91,
+          "lengthFrames": 216596,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5G#",
+          "loNote": 40,
+          "hiNote": 40,
+          "rootNote": 92,
+          "lengthFrames": 240252,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5A",
+          "loNote": 41,
+          "hiNote": 41,
+          "rootNote": 93,
+          "lengthFrames": 280378,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5A#",
+          "loNote": 42,
+          "hiNote": 42,
+          "rootNote": 94,
+          "lengthFrames": 225519,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5B",
+          "loNote": 43,
+          "hiNote": 43,
+          "rootNote": 95,
+          "lengthFrames": 214273,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_6C",
+          "loNote": 44,
+          "hiNote": 44,
+          "rootNote": 96,
+          "lengthFrames": 203525,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_6C#",
+          "loNote": 45,
+          "hiNote": 45,
+          "rootNote": 97,
+          "lengthFrames": 203963,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4C",
+          "loNote": 46,
+          "hiNote": 46,
+          "rootNote": 72,
+          "lengthFrames": 154111,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4C#",
+          "loNote": 47,
+          "hiNote": 47,
+          "rootNote": 73,
+          "lengthFrames": 182517,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4D",
+          "loNote": 48,
+          "hiNote": 48,
+          "rootNote": 74,
+          "lengthFrames": 192509,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4D#",
+          "loNote": 49,
+          "hiNote": 49,
+          "rootNote": 75,
+          "lengthFrames": 163933,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4E",
+          "loNote": 50,
+          "hiNote": 50,
+          "rootNote": 76,
+          "lengthFrames": 213792,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4F",
+          "loNote": 51,
+          "hiNote": 51,
+          "rootNote": 77,
+          "lengthFrames": 221897,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4F#",
+          "loNote": 52,
+          "hiNote": 52,
+          "rootNote": 78,
+          "lengthFrames": 220369,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4G",
+          "loNote": 53,
+          "hiNote": 53,
+          "rootNote": 79,
+          "lengthFrames": 236226,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4G#",
+          "loNote": 54,
+          "hiNote": 54,
+          "rootNote": 80,
+          "lengthFrames": 204581,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4A",
+          "loNote": 55,
+          "hiNote": 55,
+          "rootNote": 81,
+          "lengthFrames": 174231,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4A#",
+          "loNote": 56,
+          "hiNote": 56,
+          "rootNote": 82,
+          "lengthFrames": 252893,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4B",
+          "loNote": 57,
+          "hiNote": 57,
+          "rootNote": 83,
+          "lengthFrames": 230074,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5C",
+          "loNote": 58,
+          "hiNote": 58,
+          "rootNote": 84,
+          "lengthFrames": 188780,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5C#",
+          "loNote": 59,
+          "hiNote": 59,
+          "rootNote": 85,
+          "lengthFrames": 156222,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5D",
+          "loNote": 60,
+          "hiNote": 60,
+          "rootNote": 86,
+          "lengthFrames": 168225,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5D#",
+          "loNote": 61,
+          "hiNote": 61,
+          "rootNote": 87,
+          "lengthFrames": 224346,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5E",
+          "loNote": 62,
+          "hiNote": 62,
+          "rootNote": 88,
+          "lengthFrames": 272686,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5F",
+          "loNote": 63,
+          "hiNote": 63,
+          "rootNote": 89,
+          "lengthFrames": 325895,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5F#",
+          "loNote": 64,
+          "hiNote": 64,
+          "rootNote": 90,
+          "lengthFrames": 232220,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5G",
+          "loNote": 65,
+          "hiNote": 65,
+          "rootNote": 91,
+          "lengthFrames": 216596,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5G#",
+          "loNote": 66,
+          "hiNote": 66,
+          "rootNote": 92,
+          "lengthFrames": 240252,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5A",
+          "loNote": 67,
+          "hiNote": 67,
+          "rootNote": 93,
+          "lengthFrames": 280378,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5A#",
+          "loNote": 68,
+          "hiNote": 68,
+          "rootNote": 94,
+          "lengthFrames": 225519,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5B",
+          "loNote": 69,
+          "hiNote": 69,
+          "rootNote": 95,
+          "lengthFrames": 214273,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_6C",
+          "loNote": 70,
+          "hiNote": 70,
+          "rootNote": 96,
+          "lengthFrames": 203525,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_6C#",
+          "loNote": 71,
+          "hiNote": 71,
+          "rootNote": 97,
+          "lengthFrames": 203963,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4C",
+          "loNote": 72,
+          "hiNote": 72,
+          "rootNote": 72,
+          "lengthFrames": 154111,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4C#",
+          "loNote": 73,
+          "hiNote": 73,
+          "rootNote": 73,
+          "lengthFrames": 182517,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4D",
+          "loNote": 74,
+          "hiNote": 74,
+          "rootNote": 74,
+          "lengthFrames": 192509,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4D#",
+          "loNote": 75,
+          "hiNote": 75,
+          "rootNote": 75,
+          "lengthFrames": 163933,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4E",
+          "loNote": 76,
+          "hiNote": 76,
+          "rootNote": 76,
+          "lengthFrames": 213792,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4F",
+          "loNote": 77,
+          "hiNote": 77,
+          "rootNote": 77,
+          "lengthFrames": 221897,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4F#",
+          "loNote": 78,
+          "hiNote": 78,
+          "rootNote": 78,
+          "lengthFrames": 220369,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4G",
+          "loNote": 79,
+          "hiNote": 79,
+          "rootNote": 79,
+          "lengthFrames": 236226,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4G#",
+          "loNote": 80,
+          "hiNote": 80,
+          "rootNote": 80,
+          "lengthFrames": 204581,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4A",
+          "loNote": 81,
+          "hiNote": 81,
+          "rootNote": 81,
+          "lengthFrames": 174231,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4A#",
+          "loNote": 82,
+          "hiNote": 82,
+          "rootNote": 82,
+          "lengthFrames": 252893,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4B",
+          "loNote": 83,
+          "hiNote": 83,
+          "rootNote": 83,
+          "lengthFrames": 230074,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5C",
+          "loNote": 84,
+          "hiNote": 84,
+          "rootNote": 84,
+          "lengthFrames": 188780,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5C#",
+          "loNote": 85,
+          "hiNote": 85,
+          "rootNote": 85,
+          "lengthFrames": 156222,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5D",
+          "loNote": 86,
+          "hiNote": 86,
+          "rootNote": 86,
+          "lengthFrames": 168225,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5D#",
+          "loNote": 87,
+          "hiNote": 87,
+          "rootNote": 87,
+          "lengthFrames": 224346,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5E",
+          "loNote": 88,
+          "hiNote": 88,
+          "rootNote": 88,
+          "lengthFrames": 272686,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5F",
+          "loNote": 89,
+          "hiNote": 89,
+          "rootNote": 89,
+          "lengthFrames": 325895,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5F#",
+          "loNote": 90,
+          "hiNote": 90,
+          "rootNote": 90,
+          "lengthFrames": 232220,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5G",
+          "loNote": 91,
+          "hiNote": 91,
+          "rootNote": 91,
+          "lengthFrames": 216596,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5G#",
+          "loNote": 92,
+          "hiNote": 92,
+          "rootNote": 92,
+          "lengthFrames": 240252,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5A",
+          "loNote": 93,
+          "hiNote": 93,
+          "rootNote": 93,
+          "lengthFrames": 280378,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5A#",
+          "loNote": 94,
+          "hiNote": 94,
+          "rootNote": 94,
+          "lengthFrames": 225519,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5B",
+          "loNote": 95,
+          "hiNote": 95,
+          "rootNote": 95,
+          "lengthFrames": 214273,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_6C",
+          "loNote": 96,
+          "hiNote": 96,
+          "rootNote": 96,
+          "lengthFrames": 203525,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_6C#",
+          "loNote": 97,
+          "hiNote": 97,
+          "rootNote": 97,
+          "lengthFrames": 203963,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4C",
+          "loNote": 98,
+          "hiNote": 98,
+          "rootNote": 72,
+          "lengthFrames": 154111,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4C#",
+          "loNote": 99,
+          "hiNote": 99,
+          "rootNote": 73,
+          "lengthFrames": 182517,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4D",
+          "loNote": 100,
+          "hiNote": 100,
+          "rootNote": 74,
+          "lengthFrames": 192509,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4D#",
+          "loNote": 101,
+          "hiNote": 101,
+          "rootNote": 75,
+          "lengthFrames": 163933,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4E",
+          "loNote": 102,
+          "hiNote": 102,
+          "rootNote": 76,
+          "lengthFrames": 213792,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4F",
+          "loNote": 103,
+          "hiNote": 103,
+          "rootNote": 77,
+          "lengthFrames": 221897,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4F#",
+          "loNote": 104,
+          "hiNote": 104,
+          "rootNote": 78,
+          "lengthFrames": 220369,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4G",
+          "loNote": 105,
+          "hiNote": 105,
+          "rootNote": 79,
+          "lengthFrames": 236226,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4G#",
+          "loNote": 106,
+          "hiNote": 106,
+          "rootNote": 80,
+          "lengthFrames": 204581,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4A",
+          "loNote": 107,
+          "hiNote": 107,
+          "rootNote": 81,
+          "lengthFrames": 174231,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4A#",
+          "loNote": 108,
+          "hiNote": 108,
+          "rootNote": 82,
+          "lengthFrames": 252893,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4B",
+          "loNote": 109,
+          "hiNote": 109,
+          "rootNote": 83,
+          "lengthFrames": 230074,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5C",
+          "loNote": 110,
+          "hiNote": 110,
+          "rootNote": 84,
+          "lengthFrames": 188780,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5C#",
+          "loNote": 111,
+          "hiNote": 111,
+          "rootNote": 85,
+          "lengthFrames": 156222,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5D",
+          "loNote": 112,
+          "hiNote": 112,
+          "rootNote": 86,
+          "lengthFrames": 168225,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5D#",
+          "loNote": 113,
+          "hiNote": 113,
+          "rootNote": 87,
+          "lengthFrames": 224346,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5E",
+          "loNote": 114,
+          "hiNote": 114,
+          "rootNote": 88,
+          "lengthFrames": 272686,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5F",
+          "loNote": 115,
+          "hiNote": 115,
+          "rootNote": 89,
+          "lengthFrames": 325895,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5F#",
+          "loNote": 116,
+          "hiNote": 116,
+          "rootNote": 90,
+          "lengthFrames": 232220,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5G",
+          "loNote": 117,
+          "hiNote": 117,
+          "rootNote": 91,
+          "lengthFrames": 216596,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5G#",
+          "loNote": 118,
+          "hiNote": 118,
+          "rootNote": 92,
+          "lengthFrames": 240252,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5A",
+          "loNote": 119,
+          "hiNote": 119,
+          "rootNote": 93,
+          "lengthFrames": 280378,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5A#",
+          "loNote": 120,
+          "hiNote": 120,
+          "rootNote": 94,
+          "lengthFrames": 225519,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5B",
+          "loNote": 121,
+          "hiNote": 121,
+          "rootNote": 95,
+          "lengthFrames": 214273,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_6C",
+          "loNote": 122,
+          "hiNote": 122,
+          "rootNote": 96,
+          "lengthFrames": 203525,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_6C#",
+          "loNote": 123,
+          "hiNote": 123,
+          "rootNote": 97,
+          "lengthFrames": 203963,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5A#",
+          "loNote": 124,
+          "hiNote": 124,
+          "rootNote": 94,
+          "lengthFrames": 225519,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5B",
+          "loNote": 125,
+          "hiNote": 125,
+          "rootNote": 95,
+          "lengthFrames": 214273,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_6C",
+          "loNote": 126,
+          "hiNote": 126,
+          "rootNote": 96,
+          "lengthFrames": 203525,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_6C#",
+          "loNote": 127,
+          "hiNote": 127,
+          "rootNote": 97,
+          "lengthFrames": 203963,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        }
+      ]
+    },
+    {
+      "tags": [
+        "half-speed",
+        "damped"
+      ],
+      "samples": [
+        {
+          "source": "flac:HalfSpeed_3C",
+          "loNote": 0,
+          "hiNote": 0,
+          "rootNote": 72,
+          "lengthFrames": 432315,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3C#",
+          "loNote": 1,
+          "hiNote": 1,
+          "rootNote": 73,
+          "lengthFrames": 427550,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3D",
+          "loNote": 2,
+          "hiNote": 2,
+          "rootNote": 74,
+          "lengthFrames": 427116,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3D#",
+          "loNote": 3,
+          "hiNote": 3,
+          "rootNote": 75,
+          "lengthFrames": 426921,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3E",
+          "loNote": 4,
+          "hiNote": 4,
+          "rootNote": 76,
+          "lengthFrames": 426423,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3F",
+          "loNote": 5,
+          "hiNote": 5,
+          "rootNote": 77,
+          "lengthFrames": 425916,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3F#",
+          "loNote": 6,
+          "hiNote": 6,
+          "rootNote": 78,
+          "lengthFrames": 425442,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3G",
+          "loNote": 7,
+          "hiNote": 7,
+          "rootNote": 79,
+          "lengthFrames": 424920,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3G#",
+          "loNote": 8,
+          "hiNote": 8,
+          "rootNote": 80,
+          "lengthFrames": 424408,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3A",
+          "loNote": 9,
+          "hiNote": 9,
+          "rootNote": 81,
+          "lengthFrames": 423953,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3A#",
+          "loNote": 10,
+          "hiNote": 10,
+          "rootNote": 82,
+          "lengthFrames": 423453,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3B",
+          "loNote": 11,
+          "hiNote": 11,
+          "rootNote": 83,
+          "lengthFrames": 423228,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4C",
+          "loNote": 12,
+          "hiNote": 12,
+          "rootNote": 84,
+          "lengthFrames": 422998,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4C#",
+          "loNote": 13,
+          "hiNote": 13,
+          "rootNote": 85,
+          "lengthFrames": 422931,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4D",
+          "loNote": 14,
+          "hiNote": 14,
+          "rootNote": 86,
+          "lengthFrames": 423035,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4D#",
+          "loNote": 15,
+          "hiNote": 15,
+          "rootNote": 87,
+          "lengthFrames": 429696,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4E",
+          "loNote": 16,
+          "hiNote": 16,
+          "rootNote": 88,
+          "lengthFrames": 429721,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4F",
+          "loNote": 17,
+          "hiNote": 17,
+          "rootNote": 89,
+          "lengthFrames": 501783,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4F#",
+          "loNote": 18,
+          "hiNote": 18,
+          "rootNote": 90,
+          "lengthFrames": 429832,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4G",
+          "loNote": 19,
+          "hiNote": 19,
+          "rootNote": 91,
+          "lengthFrames": 429927,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3C",
+          "loNote": 20,
+          "hiNote": 20,
+          "rootNote": 72,
+          "lengthFrames": 432315,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3C#",
+          "loNote": 21,
+          "hiNote": 21,
+          "rootNote": 73,
+          "lengthFrames": 427550,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3D",
+          "loNote": 22,
+          "hiNote": 22,
+          "rootNote": 74,
+          "lengthFrames": 427116,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3D#",
+          "loNote": 23,
+          "hiNote": 23,
+          "rootNote": 75,
+          "lengthFrames": 426921,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3E",
+          "loNote": 24,
+          "hiNote": 24,
+          "rootNote": 76,
+          "lengthFrames": 426423,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3F",
+          "loNote": 25,
+          "hiNote": 25,
+          "rootNote": 77,
+          "lengthFrames": 425916,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3F#",
+          "loNote": 26,
+          "hiNote": 26,
+          "rootNote": 78,
+          "lengthFrames": 425442,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3G",
+          "loNote": 27,
+          "hiNote": 27,
+          "rootNote": 79,
+          "lengthFrames": 424920,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3G#",
+          "loNote": 28,
+          "hiNote": 28,
+          "rootNote": 80,
+          "lengthFrames": 424408,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3A",
+          "loNote": 29,
+          "hiNote": 29,
+          "rootNote": 81,
+          "lengthFrames": 423953,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3A#",
+          "loNote": 30,
+          "hiNote": 30,
+          "rootNote": 82,
+          "lengthFrames": 423453,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3B",
+          "loNote": 31,
+          "hiNote": 31,
+          "rootNote": 83,
+          "lengthFrames": 423228,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4C",
+          "loNote": 32,
+          "hiNote": 32,
+          "rootNote": 84,
+          "lengthFrames": 422998,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4C#",
+          "loNote": 33,
+          "hiNote": 33,
+          "rootNote": 85,
+          "lengthFrames": 422931,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4D",
+          "loNote": 34,
+          "hiNote": 34,
+          "rootNote": 86,
+          "lengthFrames": 423035,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4D#",
+          "loNote": 35,
+          "hiNote": 35,
+          "rootNote": 87,
+          "lengthFrames": 429696,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4E",
+          "loNote": 36,
+          "hiNote": 36,
+          "rootNote": 88,
+          "lengthFrames": 429721,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4F",
+          "loNote": 37,
+          "hiNote": 37,
+          "rootNote": 89,
+          "lengthFrames": 501783,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4F#",
+          "loNote": 38,
+          "hiNote": 38,
+          "rootNote": 90,
+          "lengthFrames": 429832,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4G",
+          "loNote": 39,
+          "hiNote": 39,
+          "rootNote": 91,
+          "lengthFrames": 429927,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4G#",
+          "loNote": 40,
+          "hiNote": 40,
+          "rootNote": 92,
+          "lengthFrames": 430023,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4A",
+          "loNote": 41,
+          "hiNote": 41,
+          "rootNote": 93,
+          "lengthFrames": 484048,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4A#",
+          "loNote": 42,
+          "hiNote": 42,
+          "rootNote": 94,
+          "lengthFrames": 430170,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4B",
+          "loNote": 43,
+          "hiNote": 43,
+          "rootNote": 95,
+          "lengthFrames": 430329,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_5C",
+          "loNote": 44,
+          "hiNote": 44,
+          "rootNote": 96,
+          "lengthFrames": 412522,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_5C#",
+          "loNote": 45,
+          "hiNote": 45,
+          "rootNote": 97,
+          "lengthFrames": 358771,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3C",
+          "loNote": 46,
+          "hiNote": 46,
+          "rootNote": 72,
+          "lengthFrames": 432315,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3C#",
+          "loNote": 47,
+          "hiNote": 47,
+          "rootNote": 73,
+          "lengthFrames": 427550,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3D",
+          "loNote": 48,
+          "hiNote": 48,
+          "rootNote": 74,
+          "lengthFrames": 427116,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3D#",
+          "loNote": 49,
+          "hiNote": 49,
+          "rootNote": 75,
+          "lengthFrames": 426921,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3E",
+          "loNote": 50,
+          "hiNote": 50,
+          "rootNote": 76,
+          "lengthFrames": 426423,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3F",
+          "loNote": 51,
+          "hiNote": 51,
+          "rootNote": 77,
+          "lengthFrames": 425916,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3F#",
+          "loNote": 52,
+          "hiNote": 52,
+          "rootNote": 78,
+          "lengthFrames": 425442,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3G",
+          "loNote": 53,
+          "hiNote": 53,
+          "rootNote": 79,
+          "lengthFrames": 424920,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3G#",
+          "loNote": 54,
+          "hiNote": 54,
+          "rootNote": 80,
+          "lengthFrames": 424408,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3A",
+          "loNote": 55,
+          "hiNote": 55,
+          "rootNote": 81,
+          "lengthFrames": 423953,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3A#",
+          "loNote": 56,
+          "hiNote": 56,
+          "rootNote": 82,
+          "lengthFrames": 423453,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3B",
+          "loNote": 57,
+          "hiNote": 57,
+          "rootNote": 83,
+          "lengthFrames": 423228,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4C",
+          "loNote": 58,
+          "hiNote": 58,
+          "rootNote": 84,
+          "lengthFrames": 422998,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4C#",
+          "loNote": 59,
+          "hiNote": 59,
+          "rootNote": 85,
+          "lengthFrames": 422931,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4D",
+          "loNote": 60,
+          "hiNote": 60,
+          "rootNote": 86,
+          "lengthFrames": 423035,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4D#",
+          "loNote": 61,
+          "hiNote": 61,
+          "rootNote": 87,
+          "lengthFrames": 429696,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4E",
+          "loNote": 62,
+          "hiNote": 62,
+          "rootNote": 88,
+          "lengthFrames": 429721,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4F",
+          "loNote": 63,
+          "hiNote": 63,
+          "rootNote": 89,
+          "lengthFrames": 501783,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4F#",
+          "loNote": 64,
+          "hiNote": 64,
+          "rootNote": 90,
+          "lengthFrames": 429832,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4G",
+          "loNote": 65,
+          "hiNote": 65,
+          "rootNote": 91,
+          "lengthFrames": 429927,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4G#",
+          "loNote": 66,
+          "hiNote": 66,
+          "rootNote": 92,
+          "lengthFrames": 430023,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4A",
+          "loNote": 67,
+          "hiNote": 67,
+          "rootNote": 93,
+          "lengthFrames": 484048,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4A#",
+          "loNote": 68,
+          "hiNote": 68,
+          "rootNote": 94,
+          "lengthFrames": 430170,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4B",
+          "loNote": 69,
+          "hiNote": 69,
+          "rootNote": 95,
+          "lengthFrames": 430329,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_5C",
+          "loNote": 70,
+          "hiNote": 70,
+          "rootNote": 96,
+          "lengthFrames": 412522,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_5C#",
+          "loNote": 71,
+          "hiNote": 71,
+          "rootNote": 97,
+          "lengthFrames": 358771,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3C",
+          "loNote": 72,
+          "hiNote": 72,
+          "rootNote": 72,
+          "lengthFrames": 432315,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3C#",
+          "loNote": 73,
+          "hiNote": 73,
+          "rootNote": 73,
+          "lengthFrames": 427550,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3D",
+          "loNote": 74,
+          "hiNote": 74,
+          "rootNote": 74,
+          "lengthFrames": 427116,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3D#",
+          "loNote": 75,
+          "hiNote": 75,
+          "rootNote": 75,
+          "lengthFrames": 426921,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3E",
+          "loNote": 76,
+          "hiNote": 76,
+          "rootNote": 76,
+          "lengthFrames": 426423,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3F",
+          "loNote": 77,
+          "hiNote": 77,
+          "rootNote": 77,
+          "lengthFrames": 425916,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3F#",
+          "loNote": 78,
+          "hiNote": 78,
+          "rootNote": 78,
+          "lengthFrames": 425442,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3G",
+          "loNote": 79,
+          "hiNote": 79,
+          "rootNote": 79,
+          "lengthFrames": 424920,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3G#",
+          "loNote": 80,
+          "hiNote": 80,
+          "rootNote": 80,
+          "lengthFrames": 424408,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3A",
+          "loNote": 81,
+          "hiNote": 81,
+          "rootNote": 81,
+          "lengthFrames": 423953,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3A#",
+          "loNote": 82,
+          "hiNote": 82,
+          "rootNote": 82,
+          "lengthFrames": 423453,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3B",
+          "loNote": 83,
+          "hiNote": 83,
+          "rootNote": 83,
+          "lengthFrames": 423228,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4C",
+          "loNote": 84,
+          "hiNote": 84,
+          "rootNote": 84,
+          "lengthFrames": 422998,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4C#",
+          "loNote": 85,
+          "hiNote": 85,
+          "rootNote": 85,
+          "lengthFrames": 422931,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4D",
+          "loNote": 86,
+          "hiNote": 86,
+          "rootNote": 86,
+          "lengthFrames": 423035,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4D#",
+          "loNote": 87,
+          "hiNote": 87,
+          "rootNote": 87,
+          "lengthFrames": 429696,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4E",
+          "loNote": 88,
+          "hiNote": 88,
+          "rootNote": 88,
+          "lengthFrames": 429721,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4F",
+          "loNote": 89,
+          "hiNote": 89,
+          "rootNote": 89,
+          "lengthFrames": 501783,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4F#",
+          "loNote": 90,
+          "hiNote": 90,
+          "rootNote": 90,
+          "lengthFrames": 429832,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4G",
+          "loNote": 91,
+          "hiNote": 91,
+          "rootNote": 91,
+          "lengthFrames": 429927,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4G#",
+          "loNote": 92,
+          "hiNote": 92,
+          "rootNote": 92,
+          "lengthFrames": 430023,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4A",
+          "loNote": 93,
+          "hiNote": 93,
+          "rootNote": 93,
+          "lengthFrames": 484048,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4A#",
+          "loNote": 94,
+          "hiNote": 94,
+          "rootNote": 94,
+          "lengthFrames": 430170,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4B",
+          "loNote": 95,
+          "hiNote": 95,
+          "rootNote": 95,
+          "lengthFrames": 430329,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_5C",
+          "loNote": 96,
+          "hiNote": 96,
+          "rootNote": 96,
+          "lengthFrames": 412522,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_5C#",
+          "loNote": 97,
+          "hiNote": 97,
+          "rootNote": 97,
+          "lengthFrames": 358771,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3C",
+          "loNote": 98,
+          "hiNote": 98,
+          "rootNote": 72,
+          "lengthFrames": 432315,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3C#",
+          "loNote": 99,
+          "hiNote": 99,
+          "rootNote": 73,
+          "lengthFrames": 427550,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3D",
+          "loNote": 100,
+          "hiNote": 100,
+          "rootNote": 74,
+          "lengthFrames": 427116,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3D#",
+          "loNote": 101,
+          "hiNote": 101,
+          "rootNote": 75,
+          "lengthFrames": 426921,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3E",
+          "loNote": 102,
+          "hiNote": 102,
+          "rootNote": 76,
+          "lengthFrames": 426423,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3F",
+          "loNote": 103,
+          "hiNote": 103,
+          "rootNote": 77,
+          "lengthFrames": 425916,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3F#",
+          "loNote": 104,
+          "hiNote": 104,
+          "rootNote": 78,
+          "lengthFrames": 425442,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3G",
+          "loNote": 105,
+          "hiNote": 105,
+          "rootNote": 79,
+          "lengthFrames": 424920,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3G#",
+          "loNote": 106,
+          "hiNote": 106,
+          "rootNote": 80,
+          "lengthFrames": 424408,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3A",
+          "loNote": 107,
+          "hiNote": 107,
+          "rootNote": 81,
+          "lengthFrames": 423953,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3A#",
+          "loNote": 108,
+          "hiNote": 108,
+          "rootNote": 82,
+          "lengthFrames": 423453,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3B",
+          "loNote": 109,
+          "hiNote": 109,
+          "rootNote": 83,
+          "lengthFrames": 423228,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4C",
+          "loNote": 110,
+          "hiNote": 110,
+          "rootNote": 84,
+          "lengthFrames": 422998,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4C#",
+          "loNote": 111,
+          "hiNote": 111,
+          "rootNote": 85,
+          "lengthFrames": 422931,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4D",
+          "loNote": 112,
+          "hiNote": 112,
+          "rootNote": 86,
+          "lengthFrames": 423035,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4D#",
+          "loNote": 113,
+          "hiNote": 113,
+          "rootNote": 87,
+          "lengthFrames": 429696,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4E",
+          "loNote": 114,
+          "hiNote": 114,
+          "rootNote": 88,
+          "lengthFrames": 429721,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4F",
+          "loNote": 115,
+          "hiNote": 115,
+          "rootNote": 89,
+          "lengthFrames": 501783,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4F#",
+          "loNote": 116,
+          "hiNote": 116,
+          "rootNote": 90,
+          "lengthFrames": 429832,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4G",
+          "loNote": 117,
+          "hiNote": 117,
+          "rootNote": 91,
+          "lengthFrames": 429927,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4G#",
+          "loNote": 118,
+          "hiNote": 118,
+          "rootNote": 92,
+          "lengthFrames": 430023,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4A",
+          "loNote": 119,
+          "hiNote": 119,
+          "rootNote": 93,
+          "lengthFrames": 484048,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4A#",
+          "loNote": 120,
+          "hiNote": 120,
+          "rootNote": 94,
+          "lengthFrames": 430170,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4B",
+          "loNote": 121,
+          "hiNote": 121,
+          "rootNote": 95,
+          "lengthFrames": 430329,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_5C",
+          "loNote": 122,
+          "hiNote": 122,
+          "rootNote": 96,
+          "lengthFrames": 412522,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_5C#",
+          "loNote": 123,
+          "hiNote": 123,
+          "rootNote": 97,
+          "lengthFrames": 358771,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4A#",
+          "loNote": 124,
+          "hiNote": 124,
+          "rootNote": 94,
+          "lengthFrames": 430170,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4B",
+          "loNote": 125,
+          "hiNote": 125,
+          "rootNote": 95,
+          "lengthFrames": 430329,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_5C",
+          "loNote": 126,
+          "hiNote": 126,
+          "rootNote": 96,
+          "lengthFrames": 412522,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_5C#",
+          "loNote": 127,
+          "hiNote": 127,
+          "rootNote": 97,
+          "lengthFrames": 358771,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        }
+      ]
+    }
+  ],
+  "effects": [
+    {
+      "type": "lowpass",
+      "enabled": false,
+      "frequency": 4277.0,
+      "resonance": 2.0
+    },
+    {
+      "type": "highpass",
+      "enabled": false,
+      "frequency": 314.0,
+      "resonance": 1.35
+    },
+    {
+      "type": "wave_shaper",
+      "enabled": false,
+      "drive": 1.0,
+      "outputLevel": 1.0
+    },
+    {
+      "type": "convolution",
+      "enabled": false,
+      "mix": 0.0,
+      "outputLevel": -16.0,
+      "ir": "ir:echo-short",
+      "normalizeIr": false
+    },
+    {
+      "type": "convolution",
+      "enabled": false,
+      "mix": 0.0,
+      "outputLevel": -16.0,
+      "ir": "ir:reverb-short",
+      "normalizeIr": false
+    }
+  ],
+  "modulators": [
+    {
+      "shape": "sine",
+      "frequency": 5.45,
+      "modAmount": 1.0,
+      "bindings": [
+        {
+          "type": "amp",
+          "level": "group",
+          "parameter": "AMP_VOLUME",
+          "translation": "linear",
+          "modBehavior": "set",
+          "translationOutputMin": 0.0,
+          "translationOutputMax": 1.0,
+          "groupIndex": 0,
+          "position": 0
+        },
+        {
+          "type": "amp",
+          "level": "group",
+          "parameter": "AMP_VOLUME",
+          "translation": "linear",
+          "modBehavior": "set",
+          "translationOutputMin": 0.0,
+          "translationOutputMax": 1.0,
+          "groupIndex": 2,
+          "position": 2
+        }
+      ]
+    },
+    {
+      "shape": "sine",
+      "frequency": 3.89,
+      "modAmount": 1.0,
+      "bindings": [
+        {
+          "type": "amp",
+          "level": "group",
+          "parameter": "AMP_VOLUME",
+          "translation": "linear",
+          "modBehavior": "set",
+          "translationOutputMin": 0.0,
+          "translationOutputMax": 1.0,
+          "groupIndex": 1,
+          "position": 1
+        },
+        {
+          "type": "amp",
+          "level": "group",
+          "parameter": "AMP_VOLUME",
+          "translation": "linear",
+          "modBehavior": "set",
+          "translationOutputMin": 0.0,
+          "translationOutputMax": 1.0,
+          "groupIndex": 3,
+          "position": 3
+        }
+      ]
+    },
+    {
+      "shape": "square",
+      "frequency": 0.32,
+      "modAmount": 0.05,
+      "bindings": [
+        {
+          "type": "amp",
+          "level": "group",
+          "parameter": "GROUP_TUNING",
+          "groupIndex": 0,
+          "position": 0
+        },
+        {
+          "type": "amp",
+          "level": "group",
+          "parameter": "GROUP_TUNING",
+          "groupIndex": 1,
+          "position": 1
+        },
+        {
+          "type": "amp",
+          "level": "group",
+          "parameter": "GROUP_TUNING",
+          "groupIndex": 2,
+          "position": 2
+        },
+        {
+          "type": "amp",
+          "level": "group",
+          "parameter": "GROUP_TUNING",
+          "groupIndex": 3,
+          "position": 3
+        }
+      ]
+    },
+    {
+      "shape": "sine",
+      "frequency": 0.71,
+      "modAmount": 0.06,
+      "bindings": [
+        {
+          "type": "amp",
+          "level": "instrument",
+          "parameter": "GLOBAL_TUNING"
+        }
+      ]
+    },
+    {
+      "shape": "saw",
+      "frequency": 0.17,
+      "modAmount": 0.05,
+      "bindings": [
+        {
+          "type": "amp",
+          "level": "instrument",
+          "parameter": "AMP_VOLUME",
+          "translation": "linear",
+          "modBehavior": "set",
+          "translationOutputMin": 0.0,
+          "translationOutputMax": 1.0
+        }
+      ]
+    }
+  ],
+  "ccBindings": [
+    {
+      "cc": 1,
+      "parameter": "MOD_AMOUNT",
+      "normMin": 0.0,
+      "normMax": 1.0
+    },
+    {
+      "cc": 1,
+      "parameter": "MOD_AMOUNT",
+      "normMin": 0.0,
+      "normMax": 1.0
+    }
+  ],
+  "ui": {
+    "background": "img:background",
+    "width": 812,
+    "height": 375,
+    "layoutMode": "relative",
+    "bgMode": "top_left",
+    "tabs": [
+      {
+        "name": "main",
+        "controls": [
+          {
+            "rect": {
+              "x": 153,
+              "y": 76,
+              "width": 41,
+              "height": 41
+            },
+            "label": "normal-speed_volume",
+            "valueType": "float",
+            "min": 0.0,
+            "max": 2.0,
+            "value": 1.0,
+            "textColor": "FF000000",
+            "style": "custom_skin_vertical_drag",
+            "skin": {
+              "image": "img:knob",
+              "numFrames": 61,
+              "orientation": "vertical"
+            },
+            "mouseDragSensitivity": 100.0,
+            "bindings": [
+              {
+                "type": "amp",
+                "level": "tag",
+                "identifier": "normal-speed",
+                "parameter": "AMP_VOLUME"
+              }
+            ]
+          },
+          {
+            "rect": {
+              "x": 242,
+              "y": 76,
+              "width": 41,
+              "height": 41
+            },
+            "label": "normal-speed_lfo-depth",
+            "valueType": "float",
+            "min": 0.0,
+            "max": 1.0,
+            "value": 0.0,
+            "textColor": "FF000000",
+            "style": "custom_skin_vertical_drag",
+            "skin": {
+              "image": "img:knob",
+              "numFrames": 61,
+              "orientation": "vertical"
+            },
+            "mouseDragSensitivity": 100.0,
+            "bindings": [
+              {
+                "type": "modulator",
+                "level": "instrument",
+                "parameter": "MOD_AMOUNT",
+                "position": 0
+              }
+            ]
+          },
+          {
+            "rect": {
+              "x": 331,
+              "y": 76,
+              "width": 41,
+              "height": 41
+            },
+            "label": "normal-speed_lfo-rate",
+            "valueType": "float",
+            "min": 1.0,
+            "max": 9.0,
+            "value": 5.45,
+            "textColor": "FF000000",
+            "style": "custom_skin_vertical_drag",
+            "skin": {
+              "image": "img:knob",
+              "numFrames": 61,
+              "orientation": "vertical"
+            },
+            "mouseDragSensitivity": 100.0,
+            "bindings": [
+              {
+                "type": "modulator",
+                "level": "instrument",
+                "parameter": "FREQUENCY",
+                "position": 0
+              }
+            ]
+          },
+          {
+            "rect": {
+              "x": 153,
+              "y": 157,
+              "width": 41,
+              "height": 41
+            },
+            "label": "half-speed_volume",
+            "valueType": "float",
+            "min": 0.0,
+            "max": 2.0,
+            "value": 1.0,
+            "textColor": "FF000000",
+            "style": "custom_skin_vertical_drag",
+            "skin": {
+              "image": "img:knob",
+              "numFrames": 61,
+              "orientation": "vertical"
+            },
+            "mouseDragSensitivity": 100.0,
+            "bindings": [
+              {
+                "type": "amp",
+                "level": "tag",
+                "identifier": "half-speed",
+                "parameter": "AMP_VOLUME"
+              }
+            ]
+          },
+          {
+            "rect": {
+              "x": 242,
+              "y": 157,
+              "width": 41,
+              "height": 41
+            },
+            "label": "half-speed_lfo-depth",
+            "valueType": "float",
+            "min": 0.0,
+            "max": 1.0,
+            "value": 0.0,
+            "textColor": "FF000000",
+            "style": "custom_skin_vertical_drag",
+            "skin": {
+              "image": "img:knob",
+              "numFrames": 61,
+              "orientation": "vertical"
+            },
+            "mouseDragSensitivity": 100.0,
+            "bindings": [
+              {
+                "type": "modulator",
+                "level": "instrument",
+                "parameter": "MOD_AMOUNT",
+                "position": 1
+              }
+            ]
+          },
+          {
+            "rect": {
+              "x": 331,
+              "y": 157,
+              "width": 41,
+              "height": 41
+            },
+            "label": "half-speed_lfo-rate",
+            "valueType": "float",
+            "min": 1.0,
+            "max": 9.0,
+            "value": 3.89,
+            "textColor": "FF000000",
+            "style": "custom_skin_vertical_drag",
+            "skin": {
+              "image": "img:knob",
+              "numFrames": 61,
+              "orientation": "vertical"
+            },
+            "mouseDragSensitivity": 100.0,
+            "bindings": [
+              {
+                "type": "modulator",
+                "level": "instrument",
+                "parameter": "FREQUENCY",
+                "position": 1
+              }
+            ]
+          },
+          {
+            "rect": {
+              "x": 617,
+              "y": 76,
+              "width": 41,
+              "height": 41
+            },
+            "label": "echo_mix",
+            "valueType": "percent",
+            "min": 0.0,
+            "max": 100.0,
+            "value": 0.0,
+            "textColor": "FF000000",
+            "style": "custom_skin_vertical_drag",
+            "skin": {
+              "image": "img:knob",
+              "numFrames": 61,
+              "orientation": "vertical"
+            },
+            "mouseDragSensitivity": 100.0,
+            "bindings": [
+              {
+                "type": "effect",
+                "level": "instrument",
+                "parameter": "FX_MIX",
+                "factor": 0.01,
+                "effectIndex": 3
+              }
+            ]
+          },
+          {
+            "rect": {
+              "x": 617,
+              "y": 157,
+              "width": 41,
+              "height": 41
+            },
+            "label": "reverb_mix",
+            "valueType": "percent",
+            "min": 0.0,
+            "max": 100.0,
+            "value": 0.0,
+            "textColor": "FF000000",
+            "style": "custom_skin_vertical_drag",
+            "skin": {
+              "image": "img:knob",
+              "numFrames": 61,
+              "orientation": "vertical"
+            },
+            "mouseDragSensitivity": 100.0,
+            "bindings": [
+              {
+                "type": "effect",
+                "level": "instrument",
+                "parameter": "FX_MIX",
+                "factor": 0.01,
+                "effectIndex": 4
+              }
+            ]
+          }
+        ],
+        "buttons": [
+          {
+            "rect": {
+              "x": 19,
+              "y": 61,
+              "width": 96,
+              "height": 72
+            },
+            "style": "image",
+            "value": 0,
+            "states": [
+              {
+                "name": "velocity_off",
+                "mainImage": "img:light-switch_off",
+                "hoverImage": "img:light-switch_off",
+                "clickImage": "img:light-switch_on",
+                "bindings": [
+                  {
+                    "type": "amp",
+                    "level": "instrument",
+                    "parameter": "AMP_VEL_TRACK",
+                    "translation": "fixed_value",
+                    "translationValue": "0"
+                  }
+                ]
+              },
+              {
+                "name": "velocity_on",
+                "mainImage": "img:light-switch_on",
+                "hoverImage": "img:light-switch_on",
+                "clickImage": "img:light-switch_off",
+                "bindings": [
+                  {
+                    "type": "amp",
+                    "level": "instrument",
+                    "parameter": "AMP_VEL_TRACK",
+                    "translation": "fixed_value",
+                    "translationValue": "1"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "rect": {
+              "x": 19,
+              "y": 142,
+              "width": 96,
+              "height": 72
+            },
+            "style": "image",
+            "value": 0,
+            "states": [
+              {
+                "name": "damping_off",
+                "mainImage": "img:light-switch_off",
+                "hoverImage": "img:light-switch_off",
+                "clickImage": "img:light-switch_on",
+                "bindings": [
+                  {
+                    "type": "amp",
+                    "level": "tag",
+                    "identifier": "damped",
+                    "parameter": "TAG_ENABLED",
+                    "translation": "fixed_value",
+                    "translationValue": false
+                  },
+                  {
+                    "type": "amp",
+                    "level": "tag",
+                    "identifier": "sustained",
+                    "parameter": "TAG_ENABLED",
+                    "translation": "fixed_value",
+                    "translationValue": true
+                  }
+                ]
+              },
+              {
+                "name": "damping_on",
+                "mainImage": "img:light-switch_on",
+                "hoverImage": "img:light-switch_on",
+                "clickImage": "img:light-switch_off",
+                "bindings": [
+                  {
+                    "type": "amp",
+                    "level": "tag",
+                    "identifier": "damped",
+                    "parameter": "TAG_ENABLED",
+                    "translation": "fixed_value",
+                    "translationValue": true
+                  },
+                  {
+                    "type": "amp",
+                    "level": "tag",
+                    "identifier": "sustained",
+                    "parameter": "TAG_ENABLED",
+                    "translation": "fixed_value",
+                    "translationValue": false
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "rect": {
+              "x": 415,
+              "y": 61,
+              "width": 96,
+              "height": 72
+            },
+            "style": "image",
+            "value": 0,
+            "states": [
+              {
+                "name": "echo_off",
+                "mainImage": "img:light-switch_off",
+                "hoverImage": "img:light-switch_off",
+                "clickImage": "img:light-switch_on",
+                "bindings": [
+                  {
+                    "type": "effect",
+                    "level": "instrument",
+                    "parameter": "ENABLED",
+                    "translation": "fixed_value",
+                    "effectIndex": 3,
+                    "translationValue": false
+                  }
+                ]
+              },
+              {
+                "name": "echo_on",
+                "mainImage": "img:light-switch_on",
+                "hoverImage": "img:light-switch_on",
+                "clickImage": "img:light-switch_off",
+                "bindings": [
+                  {
+                    "type": "effect",
+                    "level": "instrument",
+                    "parameter": "ENABLED",
+                    "translation": "fixed_value",
+                    "effectIndex": 3,
+                    "translationValue": true
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "rect": {
+              "x": 504,
+              "y": 61,
+              "width": 96,
+              "height": 72
+            },
+            "style": "image",
+            "value": 0,
+            "states": [
+              {
+                "name": "echo-long_off",
+                "mainImage": "img:light-switch_off",
+                "hoverImage": "img:light-switch_off",
+                "clickImage": "img:light-switch_on",
+                "bindings": [
+                  {
+                    "type": "effect",
+                    "level": "instrument",
+                    "parameter": "FX_IR_FILE",
+                    "translation": "fixed_value",
+                    "effectIndex": 3,
+                    "translationValue": "ir:echo-short"
+                  }
+                ]
+              },
+              {
+                "name": "echo-long_on",
+                "mainImage": "img:light-switch_on",
+                "hoverImage": "img:light-switch_on",
+                "clickImage": "img:light-switch_off",
+                "bindings": [
+                  {
+                    "type": "effect",
+                    "level": "instrument",
+                    "parameter": "FX_IR_FILE",
+                    "translation": "fixed_value",
+                    "effectIndex": 3,
+                    "translationValue": "ir:echo-long"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "rect": {
+              "x": 415,
+              "y": 142,
+              "width": 96,
+              "height": 72
+            },
+            "style": "image",
+            "value": 0,
+            "states": [
+              {
+                "name": "reverb_off",
+                "mainImage": "img:light-switch_off",
+                "hoverImage": "img:light-switch_off",
+                "clickImage": "img:light-switch_on",
+                "bindings": [
+                  {
+                    "type": "effect",
+                    "level": "instrument",
+                    "parameter": "ENABLED",
+                    "translation": "fixed_value",
+                    "effectIndex": 4,
+                    "translationValue": false
+                  }
+                ]
+              },
+              {
+                "name": "reverb_on",
+                "mainImage": "img:light-switch_on",
+                "hoverImage": "img:light-switch_on",
+                "clickImage": "img:light-switch_off",
+                "bindings": [
+                  {
+                    "type": "effect",
+                    "level": "instrument",
+                    "parameter": "ENABLED",
+                    "translation": "fixed_value",
+                    "effectIndex": 4,
+                    "translationValue": true
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "rect": {
+              "x": 504,
+              "y": 142,
+              "width": 96,
+              "height": 72
+            },
+            "style": "image",
+            "value": 0,
+            "states": [
+              {
+                "name": "reverb-long_off",
+                "mainImage": "img:light-switch_off",
+                "hoverImage": "img:light-switch_off",
+                "clickImage": "img:light-switch_on",
+                "bindings": [
+                  {
+                    "type": "effect",
+                    "level": "instrument",
+                    "parameter": "FX_IR_FILE",
+                    "translation": "fixed_value",
+                    "effectIndex": 4,
+                    "translationValue": "ir:reverb-short"
+                  }
+                ]
+              },
+              {
+                "name": "reverb-long_on",
+                "mainImage": "img:light-switch_on",
+                "hoverImage": "img:light-switch_on",
+                "clickImage": "img:light-switch_off",
+                "bindings": [
+                  {
+                    "type": "effect",
+                    "level": "instrument",
+                    "parameter": "FX_IR_FILE",
+                    "translation": "fixed_value",
+                    "effectIndex": 4,
+                    "translationValue": "ir:reverb-long"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "rect": {
+              "x": 702,
+              "y": 61,
+              "width": 96,
+              "height": 72
+            },
+            "style": "image",
+            "value": 1,
+            "states": [
+              {
+                "name": "hi-fi_off",
+                "mainImage": "img:light-switch_off",
+                "hoverImage": "img:light-switch_off",
+                "clickImage": "img:light-switch_on",
+                "bindings": [
+                  {
+                    "type": "effect",
+                    "level": "instrument",
+                    "parameter": "ENABLED",
+                    "translation": "fixed_value",
+                    "effectIndex": 0,
+                    "translationValue": true
+                  },
+                  {
+                    "type": "effect",
+                    "level": "instrument",
+                    "parameter": "FX_FILTER_FREQUENCY",
+                    "translation": "fixed_value",
+                    "effectIndex": 0,
+                    "translationValue": "4277"
+                  },
+                  {
+                    "type": "effect",
+                    "level": "instrument",
+                    "parameter": "FX_FILTER_RESONANCE",
+                    "translation": "fixed_value",
+                    "effectIndex": 0,
+                    "translationValue": "2.0"
+                  },
+                  {
+                    "type": "effect",
+                    "level": "instrument",
+                    "parameter": "ENABLED",
+                    "translation": "fixed_value",
+                    "effectIndex": 1,
+                    "translationValue": true
+                  },
+                  {
+                    "type": "effect",
+                    "level": "instrument",
+                    "parameter": "FX_FILTER_FREQUENCY",
+                    "translation": "fixed_value",
+                    "effectIndex": 1,
+                    "translationValue": "314"
+                  },
+                  {
+                    "type": "effect",
+                    "level": "instrument",
+                    "parameter": "FX_FILTER_RESONANCE",
+                    "translation": "fixed_value",
+                    "effectIndex": 1,
+                    "translationValue": "1.35"
+                  },
+                  {
+                    "type": "effect",
+                    "level": "instrument",
+                    "parameter": "ENABLED",
+                    "translation": "fixed_value",
+                    "effectIndex": 2,
+                    "translationValue": true
+                  },
+                  {
+                    "type": "effect",
+                    "level": "instrument",
+                    "parameter": "FX_DRIVE",
+                    "translation": "fixed_value",
+                    "effectIndex": 2,
+                    "translationValue": "4.11"
+                  },
+                  {
+                    "type": "effect",
+                    "level": "instrument",
+                    "parameter": "FX_OUTPUT_LEVEL",
+                    "translation": "fixed_value",
+                    "effectIndex": 2,
+                    "translationValue": "0.2"
+                  },
+                  {
+                    "type": "modulator",
+                    "level": "instrument",
+                    "parameter": "MOD_AMOUNT",
+                    "translation": "fixed_value",
+                    "position": 2,
+                    "translationValue": "0.05"
+                  },
+                  {
+                    "type": "modulator",
+                    "level": "instrument",
+                    "parameter": "MOD_AMOUNT",
+                    "translation": "fixed_value",
+                    "position": 3,
+                    "translationValue": "0.06"
+                  },
+                  {
+                    "type": "modulator",
+                    "level": "instrument",
+                    "parameter": "MOD_AMOUNT",
+                    "translation": "fixed_value",
+                    "position": 4,
+                    "translationValue": "0.05"
+                  }
+                ]
+              },
+              {
+                "name": "hi-fi_on",
+                "mainImage": "img:light-switch_on",
+                "hoverImage": "img:light-switch_on",
+                "clickImage": "img:light-switch_off",
+                "bindings": [
+                  {
+                    "type": "effect",
+                    "level": "instrument",
+                    "parameter": "ENABLED",
+                    "translation": "fixed_value",
+                    "effectIndex": 0,
+                    "translationValue": false
+                  },
+                  {
+                    "type": "effect",
+                    "level": "instrument",
+                    "parameter": "FX_FILTER_FREQUENCY",
+                    "translation": "fixed_value",
+                    "effectIndex": 0,
+                    "translationValue": "20000"
+                  },
+                  {
+                    "type": "effect",
+                    "level": "instrument",
+                    "parameter": "FX_FILTER_RESONANCE",
+                    "translation": "fixed_value",
+                    "effectIndex": 0,
+                    "translationValue": "0.7"
+                  },
+                  {
+                    "type": "effect",
+                    "level": "instrument",
+                    "parameter": "ENABLED",
+                    "translation": "fixed_value",
+                    "effectIndex": 1,
+                    "translationValue": false
+                  },
+                  {
+                    "type": "effect",
+                    "level": "instrument",
+                    "parameter": "FX_FILTER_FREQUENCY",
+                    "translation": "fixed_value",
+                    "effectIndex": 1,
+                    "translationValue": "0"
+                  },
+                  {
+                    "type": "effect",
+                    "level": "instrument",
+                    "parameter": "FX_FILTER_RESONANCE",
+                    "translation": "fixed_value",
+                    "effectIndex": 1,
+                    "translationValue": "0.7"
+                  },
+                  {
+                    "type": "effect",
+                    "level": "instrument",
+                    "parameter": "ENABLED",
+                    "translation": "fixed_value",
+                    "effectIndex": 2,
+                    "translationValue": false
+                  },
+                  {
+                    "type": "effect",
+                    "level": "instrument",
+                    "parameter": "FX_DRIVE",
+                    "translation": "fixed_value",
+                    "effectIndex": 2,
+                    "translationValue": "1"
+                  },
+                  {
+                    "type": "effect",
+                    "level": "instrument",
+                    "parameter": "FX_OUTPUT_LEVEL",
+                    "translation": "fixed_value",
+                    "effectIndex": 2,
+                    "translationValue": "1"
+                  },
+                  {
+                    "type": "modulator",
+                    "level": "instrument",
+                    "parameter": "MOD_AMOUNT",
+                    "translation": "fixed_value",
+                    "position": 2,
+                    "translationValue": "0"
+                  },
+                  {
+                    "type": "modulator",
+                    "level": "instrument",
+                    "parameter": "MOD_AMOUNT",
+                    "translation": "fixed_value",
+                    "position": 3,
+                    "translationValue": "0"
+                  },
+                  {
+                    "type": "modulator",
+                    "level": "instrument",
+                    "parameter": "MOD_AMOUNT",
+                    "translation": "fixed_value",
+                    "position": 4,
+                    "translationValue": "0"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "images": []
+      }
+    ],
+    "keyboard": {
+      "colors": [
+        {
+          "loNote": 0,
+          "hiNote": 19,
+          "color": "FFFF5544"
+        },
+        {
+          "loNote": 20,
+          "hiNote": 45,
+          "color": "FFFFA544"
+        },
+        {
+          "loNote": 46,
+          "hiNote": 71,
+          "color": "FFFFFF44"
+        },
+        {
+          "loNote": 72,
+          "hiNote": 97,
+          "color": "FFFFFFFF"
+        },
+        {
+          "loNote": 98,
+          "hiNote": 123,
+          "color": "FFFFFF44"
+        },
+        {
+          "loNote": 124,
+          "hiNote": 127,
+          "color": "FFFFA544"
+        }
+      ]
+    }
+  }
+}
