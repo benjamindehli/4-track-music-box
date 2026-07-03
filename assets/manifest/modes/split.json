@@ -1912,7 +1912,7 @@
         {
           "loNote": 36,
           "hiNote": 61,
-          "color": "FFFFFFFF"
+          "color": "none"
         },
         {
           "loNote": 62,
@@ -1922,7 +1922,7 @@
         {
           "loNote": 72,
           "hiNote": 97,
-          "color": "FFFFFFFF"
+          "color": "none"
         },
         {
           "loNote": 98,
