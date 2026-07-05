@@ -60,3 +60,6 @@ else()
     message(WARNING "FourTrackMusicBox: no assets in assets/ — plugin will be silent. "
                     "Generate them with the dmse_convert target first.")
 endif()
+
+# Install the disk sample pack (default) into the shared support folder the engine reads.
+dmse_setup_plugin(FourTrackMusicBox "4-track Music Box")
