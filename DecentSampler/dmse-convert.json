@@ -1,0 +1,23 @@
+{
+    "gain": -16,
+    "normalizeIr": false,
+    "reverbGain": -16,
+    "keyboardColors": {
+        "Layered": [{ "loNote": 72, "hiNote": 96, "color": "none" }],
+        "Layered (Pitch Stretched)": [
+            { "loNote": 0, "hiNote": 19, "color": "FFFF5544" },
+            { "loNote": 20, "hiNote": 45, "color": "FFFFA544" },
+            { "loNote": 46, "hiNote": 71, "color": "FFFFFF44" },
+            { "loNote": 72, "hiNote": 97, "color": "none" },
+            { "loNote": 98, "hiNote": 123, "color": "FFFFFF44" },
+            { "loNote": 124, "hiNote": 127, "color": "FFFFA544" }
+        ],
+        "Split": [
+            { "loNote": 0, "hiNote": 35, "color": "FF000000" },
+            { "loNote": 36, "hiNote": 61, "color": "none" },
+            { "loNote": 62, "hiNote": 71, "color": "FF000000" },
+            { "loNote": 72, "hiNote": 97, "color": "none" },
+            { "loNote": 98, "hiNote": 127, "color": "FF000000" }
+        ]
+    }
+}
