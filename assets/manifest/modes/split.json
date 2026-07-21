@@ -1041,9 +1041,7 @@
           "translation": "linear",
           "modBehavior": "set",
           "translationOutputMin": 0.0,
-          "translationOutputMax": 1.0,
-          "groupIndex": 0,
-          "position": 0
+          "translationOutputMax": 1.0
         },
         {
           "type": "amp",
@@ -1053,9 +1051,7 @@
           "translation": "linear",
           "modBehavior": "set",
           "translationOutputMin": 0.0,
-          "translationOutputMax": 1.0,
-          "groupIndex": 2,
-          "position": 2
+          "translationOutputMax": 1.0
         }
       ]
     },
@@ -1073,9 +1069,7 @@
           "translation": "linear",
           "modBehavior": "set",
           "translationOutputMin": 0.0,
-          "translationOutputMax": 1.0,
-          "groupIndex": 1,
-          "position": 1
+          "translationOutputMax": 1.0
         },
         {
           "type": "amp",
@@ -1085,9 +1079,7 @@
           "translation": "linear",
           "modBehavior": "set",
           "translationOutputMin": 0.0,
-          "translationOutputMax": 1.0,
-          "groupIndex": 3,
-          "position": 3
+          "translationOutputMax": 1.0
         }
       ]
     },
@@ -1101,33 +1093,25 @@
           "type": "amp",
           "level": "group",
           "targetId": "grp_0",
-          "parameter": "GROUP_TUNING",
-          "groupIndex": 0,
-          "position": 0
+          "parameter": "GROUP_TUNING"
         },
         {
           "type": "amp",
           "level": "group",
           "targetId": "grp_1",
-          "parameter": "GROUP_TUNING",
-          "groupIndex": 1,
-          "position": 1
+          "parameter": "GROUP_TUNING"
         },
         {
           "type": "amp",
           "level": "group",
           "targetId": "grp_2",
-          "parameter": "GROUP_TUNING",
-          "groupIndex": 2,
-          "position": 2
+          "parameter": "GROUP_TUNING"
         },
         {
           "type": "amp",
           "level": "group",
           "targetId": "grp_3",
-          "parameter": "GROUP_TUNING",
-          "groupIndex": 3,
-          "position": 3
+          "parameter": "GROUP_TUNING"
         }
       ]
     },
@@ -1167,7 +1151,6 @@
       "cc": 1,
       "parameter": "MOD_AMOUNT",
       "targetId": "ctl_1",
-      "controlIndex": 3,
       "normMin": 0.0,
       "normMax": 1.0
     },
@@ -1175,7 +1158,6 @@
       "cc": 1,
       "parameter": "MOD_AMOUNT",
       "targetId": "ctl_4",
-      "controlIndex": 6,
       "normMin": 0.0,
       "normMax": 1.0
     }
@@ -1248,8 +1230,7 @@
                 "type": "modulator",
                 "level": "instrument",
                 "targetId": "mod_0",
-                "parameter": "MOD_AMOUNT",
-                "position": 0
+                "parameter": "MOD_AMOUNT"
               }
             ]
           },
@@ -1280,8 +1261,7 @@
                 "type": "modulator",
                 "level": "instrument",
                 "targetId": "mod_0",
-                "parameter": "FREQUENCY",
-                "position": 0
+                "parameter": "FREQUENCY"
               }
             ]
           },
@@ -1343,8 +1323,7 @@
                 "type": "modulator",
                 "level": "instrument",
                 "targetId": "mod_1",
-                "parameter": "MOD_AMOUNT",
-                "position": 1
+                "parameter": "MOD_AMOUNT"
               }
             ]
           },
@@ -1375,8 +1354,7 @@
                 "type": "modulator",
                 "level": "instrument",
                 "targetId": "mod_1",
-                "parameter": "FREQUENCY",
-                "position": 1
+                "parameter": "FREQUENCY"
               }
             ]
           },
@@ -1408,8 +1386,7 @@
                 "level": "instrument",
                 "targetId": "fx_convolution",
                 "parameter": "FX_MIX",
-                "factor": 0.01,
-                "effectIndex": 3
+                "factor": 0.01
               }
             ]
           },
@@ -1441,8 +1418,7 @@
                 "level": "instrument",
                 "targetId": "fx_convolution_2",
                 "parameter": "FX_MIX",
-                "factor": 0.01,
-                "effectIndex": 4
+                "factor": 0.01
               }
             ]
           }
@@ -1578,7 +1554,6 @@
                     "targetId": "fx_convolution",
                     "parameter": "ENABLED",
                     "translation": "fixed_value",
-                    "effectIndex": 3,
                     "translationValue": false
                   }
                 ]
@@ -1595,7 +1570,6 @@
                     "targetId": "fx_convolution",
                     "parameter": "ENABLED",
                     "translation": "fixed_value",
-                    "effectIndex": 3,
                     "translationValue": true
                   }
                 ]
@@ -1626,7 +1600,6 @@
                     "targetId": "fx_convolution",
                     "parameter": "FX_IR_FILE",
                     "translation": "fixed_value",
-                    "effectIndex": 3,
                     "translationValue": "ir:echo-short"
                   }
                 ]
@@ -1643,7 +1616,6 @@
                     "targetId": "fx_convolution",
                     "parameter": "FX_IR_FILE",
                     "translation": "fixed_value",
-                    "effectIndex": 3,
                     "translationValue": "ir:echo-long"
                   }
                 ]
@@ -1674,7 +1646,6 @@
                     "targetId": "fx_convolution_2",
                     "parameter": "ENABLED",
                     "translation": "fixed_value",
-                    "effectIndex": 4,
                     "translationValue": false
                   }
                 ]
@@ -1691,7 +1662,6 @@
                     "targetId": "fx_convolution_2",
                     "parameter": "ENABLED",
                     "translation": "fixed_value",
-                    "effectIndex": 4,
                     "translationValue": true
                   }
                 ]
@@ -1722,7 +1692,6 @@
                     "targetId": "fx_convolution_2",
                     "parameter": "FX_IR_FILE",
                     "translation": "fixed_value",
-                    "effectIndex": 4,
                     "translationValue": "ir:reverb-short"
                   }
                 ]
@@ -1739,7 +1708,6 @@
                     "targetId": "fx_convolution_2",
                     "parameter": "FX_IR_FILE",
                     "translation": "fixed_value",
-                    "effectIndex": 4,
                     "translationValue": "ir:reverb-long"
                   }
                 ]
@@ -1770,7 +1738,6 @@
                     "targetId": "fx_lowpass",
                     "parameter": "ENABLED",
                     "translation": "fixed_value",
-                    "effectIndex": 0,
                     "translationValue": true
                   },
                   {
@@ -1779,7 +1746,6 @@
                     "targetId": "fx_lowpass",
                     "parameter": "FX_FILTER_FREQUENCY",
                     "translation": "fixed_value",
-                    "effectIndex": 0,
                     "translationValue": "4277"
                   },
                   {
@@ -1788,7 +1754,6 @@
                     "targetId": "fx_lowpass",
                     "parameter": "FX_FILTER_RESONANCE",
                     "translation": "fixed_value",
-                    "effectIndex": 0,
                     "translationValue": "2.0"
                   },
                   {
@@ -1797,7 +1762,6 @@
                     "targetId": "fx_highpass",
                     "parameter": "ENABLED",
                     "translation": "fixed_value",
-                    "effectIndex": 1,
                     "translationValue": true
                   },
                   {
@@ -1806,7 +1770,6 @@
                     "targetId": "fx_highpass",
                     "parameter": "FX_FILTER_FREQUENCY",
                     "translation": "fixed_value",
-                    "effectIndex": 1,
                     "translationValue": "314"
                   },
                   {
@@ -1815,7 +1778,6 @@
                     "targetId": "fx_highpass",
                     "parameter": "FX_FILTER_RESONANCE",
                     "translation": "fixed_value",
-                    "effectIndex": 1,
                     "translationValue": "1.35"
                   },
                   {
@@ -1824,7 +1786,6 @@
                     "targetId": "fx_wave_shaper",
                     "parameter": "ENABLED",
                     "translation": "fixed_value",
-                    "effectIndex": 2,
                     "translationValue": true
                   },
                   {
@@ -1833,7 +1794,6 @@
                     "targetId": "fx_wave_shaper",
                     "parameter": "FX_DRIVE",
                     "translation": "fixed_value",
-                    "effectIndex": 2,
                     "translationValue": "4.11"
                   },
                   {
@@ -1842,7 +1802,6 @@
                     "targetId": "fx_wave_shaper",
                     "parameter": "FX_OUTPUT_LEVEL",
                     "translation": "fixed_value",
-                    "effectIndex": 2,
                     "translationValue": "0.2"
                   },
                   {
@@ -1851,7 +1810,6 @@
                     "targetId": "mod_2",
                     "parameter": "MOD_AMOUNT",
                     "translation": "fixed_value",
-                    "position": 2,
                     "translationValue": "0.05"
                   },
                   {
@@ -1860,7 +1818,6 @@
                     "targetId": "mod_3",
                     "parameter": "MOD_AMOUNT",
                     "translation": "fixed_value",
-                    "position": 3,
                     "translationValue": "0.06"
                   },
                   {
@@ -1869,7 +1826,6 @@
                     "targetId": "mod_4",
                     "parameter": "MOD_AMOUNT",
                     "translation": "fixed_value",
-                    "position": 4,
                     "translationValue": "0.05"
                   }
                 ]
@@ -1886,7 +1842,6 @@
                     "targetId": "fx_lowpass",
                     "parameter": "ENABLED",
                     "translation": "fixed_value",
-                    "effectIndex": 0,
                     "translationValue": false
                   },
                   {
@@ -1895,7 +1850,6 @@
                     "targetId": "fx_lowpass",
                     "parameter": "FX_FILTER_FREQUENCY",
                     "translation": "fixed_value",
-                    "effectIndex": 0,
                     "translationValue": "20000"
                   },
                   {
@@ -1904,7 +1858,6 @@
                     "targetId": "fx_lowpass",
                     "parameter": "FX_FILTER_RESONANCE",
                     "translation": "fixed_value",
-                    "effectIndex": 0,
                     "translationValue": "0.7"
                   },
                   {
@@ -1913,7 +1866,6 @@
                     "targetId": "fx_highpass",
                     "parameter": "ENABLED",
                     "translation": "fixed_value",
-                    "effectIndex": 1,
                     "translationValue": false
                   },
                   {
@@ -1922,7 +1874,6 @@
                     "targetId": "fx_highpass",
                     "parameter": "FX_FILTER_FREQUENCY",
                     "translation": "fixed_value",
-                    "effectIndex": 1,
                     "translationValue": "0"
                   },
                   {
@@ -1931,7 +1882,6 @@
                     "targetId": "fx_highpass",
                     "parameter": "FX_FILTER_RESONANCE",
                     "translation": "fixed_value",
-                    "effectIndex": 1,
                     "translationValue": "0.7"
                   },
                   {
@@ -1940,7 +1890,6 @@
                     "targetId": "fx_wave_shaper",
                     "parameter": "ENABLED",
                     "translation": "fixed_value",
-                    "effectIndex": 2,
                     "translationValue": false
                   },
                   {
@@ -1949,7 +1898,6 @@
                     "targetId": "fx_wave_shaper",
                     "parameter": "FX_DRIVE",
                     "translation": "fixed_value",
-                    "effectIndex": 2,
                     "translationValue": "1"
                   },
                   {
@@ -1958,7 +1906,6 @@
                     "targetId": "fx_wave_shaper",
                     "parameter": "FX_OUTPUT_LEVEL",
                     "translation": "fixed_value",
-                    "effectIndex": 2,
                     "translationValue": "1"
                   },
                   {
@@ -1967,7 +1914,6 @@
                     "targetId": "mod_2",
                     "parameter": "MOD_AMOUNT",
                     "translation": "fixed_value",
-                    "position": 2,
                     "translationValue": "0"
                   },
                   {
@@ -1976,7 +1922,6 @@
                     "targetId": "mod_3",
                     "parameter": "MOD_AMOUNT",
                     "translation": "fixed_value",
-                    "position": 3,
                     "translationValue": "0"
                   },
                   {
@@ -1985,7 +1930,6 @@
                     "targetId": "mod_4",
                     "parameter": "MOD_AMOUNT",
                     "translation": "fixed_value",
-                    "position": 4,
                     "translationValue": "0"
                   }
                 ]
