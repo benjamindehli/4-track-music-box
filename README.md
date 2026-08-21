@@ -1,5 +1,7 @@
 # 4-track Music Box
 
+**[Product page and documentation](https://benjamindehli.github.io/4-track-music-box/)**
+
 A music box recorded on to cassette tape and played back at half speed and normal/original speed. Playing back at half speed results in an octave lower pitch.
 
 ## Release notes
