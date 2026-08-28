@@ -33,22 +33,37 @@
   "@context": "https://schema.org",
   "@graph": [
     {
+      "@type": "WebSite",
+      "@id": "https://benjamindehli.github.io/4-track-music-box/#website",
+      "name": "4-track Music Box",
+      "url": "https://benjamindehli.github.io/4-track-music-box/",
+      "description": "Product page and documentation for 4-track Music Box, a sample instrument by Dehli Musikk.",
+      "inLanguage": "en",
+      "author": {
+        "@id": "https://musicbrainz.org/artist/56639e59-2bb5-40bd-9d5a-97d964298b6f"
+      },
+      "publisher": {
+        "@id": "https://www.dehlimusikk.no/"
+      },
+      "license": "https://www.gnu.org/licenses/gpl-3.0.html",
+      "about": {
+        "@id": "https://www.dehlimusikk.no/products/4-track-music-box/#product"
+      },
+      "sameAs": "https://github.com/benjamindehli/4-track-music-box"
+    },
+    {
       "@type": "SoftwareApplication",
-      "@id": "https://store.dehlimusikk.no/l/4-track-music-box",
+      "@id": "https://www.dehlimusikk.no/products/4-track-music-box/#product",
       "name": "4-track Music Box",
       "description": "4-track Music Box: A music box recorded on to cassette tape and played back at half speed and normal/original speed. Playing back at half speed results in…",
       "url": "https://benjamindehli.github.io/4-track-music-box/",
       "applicationCategory": "MultimediaApplication",
       "applicationSubCategory": "Sample library / virtual instrument",
       "author": {
-        "@type": "Organization",
-        "name": "Dehli Musikk",
-        "url": "https://www.dehlimusikk.no/"
+        "@id": "https://musicbrainz.org/artist/56639e59-2bb5-40bd-9d5a-97d964298b6f"
       },
       "publisher": {
-        "@type": "Organization",
-        "name": "Dehli Musikk",
-        "url": "https://www.dehlimusikk.no/"
+        "@id": "https://www.dehlimusikk.no/"
       },
       "operatingSystem": "macOS, Windows, Linux",
       "softwareVersion": "2.1.0",
@@ -56,19 +71,15 @@
       "image": "https://benjamindehli.github.io/4-track-music-box/img/screenshots-4-track-music-box.webp",
       "screenshot": [
         "https://benjamindehli.github.io/4-track-music-box/img/screenshots-4-track-music-box.webp",
-        "https://benjamindehli.github.io/4-track-music-box/img/screenshots-4-track-music-box.webp",
-        "https://benjamindehli.github.io/4-track-music-box/img/screenshots-instrument.webp",
         "https://benjamindehli.github.io/4-track-music-box/img/screenshots-instrument.webp",
         "https://benjamindehli.github.io/4-track-music-box/img/screenshots-mixer.webp",
-        "https://benjamindehli.github.io/4-track-music-box/img/screenshots-mixer.webp",
-        "https://benjamindehli.github.io/4-track-music-box/img/screenshots-echo.webp",
         "https://benjamindehli.github.io/4-track-music-box/img/screenshots-echo.webp",
         "https://benjamindehli.github.io/4-track-music-box/img/screenshots-reverb.webp",
-        "https://benjamindehli.github.io/4-track-music-box/img/screenshots-reverb.webp",
-        "https://benjamindehli.github.io/4-track-music-box/img/screenshots-fidelity.webp",
         "https://benjamindehli.github.io/4-track-music-box/img/screenshots-fidelity.webp"
       ],
       "sameAs": [
+        "https://www.dehlimusikk.no/products/4-track-music-box/",
+        "https://www.dehlimusikk.no/en/products/4-track-music-box/",
         "https://store.dehlimusikk.no/l/4-track-music-box",
         "https://dehlimusikk.gumroad.com/l/4-track-music-box",
         "https://www.cylex.no/bedrift-produkt/4-track+music+box_223139.html",
@@ -88,6 +99,18 @@
           "description": "Pay what you want, from $9.99"
         }
       }
+    },
+    {
+      "@type": "Person",
+      "@id": "https://musicbrainz.org/artist/56639e59-2bb5-40bd-9d5a-97d964298b6f",
+      "name": "Benjamin Dehli",
+      "url": "https://www.dehlimusikk.no/"
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://www.dehlimusikk.no/",
+      "name": "Dehli Musikk",
+      "url": "https://www.dehlimusikk.no/"
     }
   ]
 }
